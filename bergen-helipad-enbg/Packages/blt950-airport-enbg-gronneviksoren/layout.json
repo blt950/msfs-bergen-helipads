@@ -8,12 +8,12 @@
     {
       "path": "MaterialLibs/materials/Library.xml",
       "size": 2212,
-      "date": 133042755252164865
+      "date": 133042789108264562
     },
     {
       "path": "MaterialLibs/materials/Textures/HELIPAD_ARROW.PNG.DDS",
       "size": 349700,
-      "date": 133042755253271383
+      "date": 133042789109274574
     },
     {
       "path": "MaterialLibs/materials/Textures/helipad_arrow.png.DDS.FLAGS",
@@ -23,7 +23,7 @@
     {
       "path": "MaterialLibs/materials/Textures/HELIPAD_ARROW.PNG.DDS.json",
       "size": 249,
-      "date": 133042755253209933
+      "date": 133042789109269572
     },
     {
       "path": "MaterialLibs/materials/Textures/NO_HELIPAD.PNG.DDS",
@@ -41,9 +41,24 @@
       "date": 133042755254211216
     },
     {
+      "path": "MaterialLibs/materials/Textures/NO_MEDIPAD.PNG.DDS",
+      "size": 349700,
+      "date": 133042789110254571
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/no_medipad.png.DDS.FLAGS",
+      "size": 39,
+      "date": 133042788899579788
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/NO_MEDIPAD.PNG.DDS.json",
+      "size": 248,
+      "date": 133042789110239562
+    },
+    {
       "path": "scenery/blt950/ENBG.bgl",
       "size": 7931,
-      "date": 133042772515917716
+      "date": 133042789110479572
     }
   ]
 }

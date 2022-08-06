@@ -1,9 +1,9 @@
 <Timestamps>
+	<Entry Path="Textures\no_medipad.png.FLAGS" Timestamp="13304278889"/>
 	<Entry Path="helipad_arrow.material" Timestamp="13304272877"/>
-	<Entry Path="Textures\no_helipad.png.FLAGS" Timestamp="13304272877"/>
+	<Entry Path="no_medipad.material" Timestamp="13304278890"/>
 	<Entry Path="Textures\helipad_arrow.png.FLAGS" Timestamp="13304272877"/>
-	<Entry Path="Textures\no_helipad.png" Timestamp="13304272877"/>
-	<Entry Path="no_helipad.material" Timestamp="13304272877"/>
 	<Entry Path="Textures\helipad_arrow.png" Timestamp="13304272877"/>
+	<Entry Path="Textures\no_medipad.png" Timestamp="13304278818"/>
 </Timestamps>
 
