@@ -504,7 +504,7 @@
 		<Vertex lat="60.37966981442652" lon="5.34536735576803"/>
 	</Polygon>
 	<Rectangle width="250.000000" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="60.37766166136551" longitude="5.35140882913772" altitude="0.90939229354262" latitude2="60.37990543362450" longitude2="5.35140896312706" altitude2="0.90687042381614"/>
-	<LandmarkLocation instanceId="{6790FAE2-0CDC-4106-BB08-8DE119A063CE}" type="POI" name="Grønneviksøren Helipad" lat="60.37986595942292" lon="5.34609144455232" alt="3.45414707995951" offset="5.000000"/>
+	<LandmarkLocation instanceId="{6790FAE2-0CDC-4106-BB08-8DE119A063CE}" type="POI" name="Grønneviksøren Heliport" lat="60.37986595942292" lon="5.34609144455232" alt="3.45414707995951" offset="5.000000"/>
 	<Group displayName="Buildings etc" groupIndex="4" groupID="1" groupGenerated="FALSE"/>
 	<Group displayName="Fences" groupIndex="7" groupID="2" groupGenerated="FALSE"/>
 	<Group displayName="Parkings" groupIndex="5" groupID="3" groupGenerated="FALSE"/>
