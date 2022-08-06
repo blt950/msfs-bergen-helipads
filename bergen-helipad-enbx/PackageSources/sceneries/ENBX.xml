@@ -17,7 +17,7 @@
 		<LibraryObject name="{FD1EE2A3-EED6-49BE-8326-11C562E480EC}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: GIZA_Helipad-->
-	<SceneryObject parentGroupID="1" groupIndex="4" lat="60.37315593636568" lon="5.35849151505550" alt="16.96217254293654" pitch="0.000861" bank="-0.000861" heading="1.034883" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="1" groupIndex="4" lat="60.37315593634356" lon="5.35849151505537" alt="17.16209800801417" pitch="0.000861" bank="-0.000861" heading="1.034883" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{607609DF-F15C-4544-8D48-020B685E4312}" scale="1.000000"/>
 	</SceneryObject>
 	<LandmarkLocation instanceId="{9ED93678-FBCA-4C34-ACB1-34A04405B6D6}" type="POI" name="Bergen Haukeland Hospital Helipad" lat="60.37316140771554" lon="5.35848099280770" alt="76.19842198491096" offset="0.000000"/>
