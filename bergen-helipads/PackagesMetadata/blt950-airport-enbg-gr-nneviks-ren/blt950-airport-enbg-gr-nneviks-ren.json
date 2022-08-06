@@ -1,0 +1,10 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "ENBG",
+      "latitude": 60.38,
+      "longitude": 5.346
+    }
+  ]
+}

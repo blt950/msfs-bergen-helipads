@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<SceneryObject lat="60.37993604499771" lon="5.34715409073772" alt="5.05960745906366" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<LandmarkLocation instanceId="{6790FAE2-0CDC-4106-BB08-8DE119A063CE}" type="POI" name="Grønneviksøren Helipad" lat="60.37981841913870" lon="5.34647434835830" alt="0.34124575555325" offset="5.000000"/>
+	<Airport displayName="Grønneviksøren" groupIndex="2" groupID="1" groupGenerated="FALSE" name="Grønneviksøren" ident="ENBG" lat="60.38000000000000" lon="5.34600000000000" alt="47.70100402832031" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Helipad parentGroupID="1" type="MEDICAL" lat="60.37986758139053" lon="5.34608797168768" alt="0.22885192185640" heading="69.448692" length="10.499999" width="10.499999" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Aprons>
+			<Apron parentGroupID="1" groupIndex="2" surface="{EDE62181-4A88-49CD-AE2D-EA84F714391B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="54" green="54" blue="54" alpha="255" override="TRUE"/>
+				<Vertex lat="60.37968384653277" lon="5.34568374248931"/>
+				<Vertex lat="60.37999266600084" lon="5.34560863087259"/>
+				<Vertex lat="60.38005907009182" lon="5.34668047764884"/>
+				<Vertex lat="60.38008055187770" lon="5.34709861782639"/>
+				<Vertex lat="60.37992957382212" lon="5.34712772372653"/>
+				<Vertex lat="60.37990290982447" lon="5.34671404608140"/>
+				<Vertex lat="60.37975411027126" lon="5.34675225158507"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements>
+			<PaintedLine parentGroupID="1" groupIndex="1" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="60.37969146363319" lon="5.34570160184861"/>
+				<Vertex lat="60.37976277019501" lon="5.34673218765130"/>
+				<Vertex lat="60.38004820848223" lon="5.34665644506415"/>
+				<Vertex lat="60.37998500805465" lon="5.34563329447701"/>
+				<Vertex lat="60.37969148176019" lon="5.34570166668046"/>
+			</PaintedLine>
+		</PaintedElements>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
