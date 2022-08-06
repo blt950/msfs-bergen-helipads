@@ -1,0 +1,34 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "ENBX",
+      "latitude": 60.37314,
+      "longitude": 5.35837
+    },
+    {
+      "type": "airport",
+      "airportCode": "ENBG",
+      "latitude": 60.38,
+      "longitude": 5.346
+    },
+    {
+      "type": "airport",
+      "airportCode": "ENBX",
+      "latitude": 60.37327598701675,
+      "longitude": 5.3583808702185
+    },
+    {
+      "type": "airport",
+      "airportCode": "ENSA",
+      "latitude": 60.40931607517148,
+      "longitude": 5.3171108764154
+    },
+    {
+      "type": "airport",
+      "airportCode": "ENSA",
+      "latitude": 60.40929,
+      "longitude": 5.31706
+    }
+  ]
+}
