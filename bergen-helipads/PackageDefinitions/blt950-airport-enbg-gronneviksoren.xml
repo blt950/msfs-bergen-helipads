@@ -16,10 +16,10 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-enbg-gronneviksoren\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="materials">
+		<AssetGroup Name="enbg-materials">
 			<Type>MaterialLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
@@ -27,7 +27,7 @@
 			<AssetDir>PackageSources\materials\</AssetDir>
 			<OutputDir>MaterialLibs\materials\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="scenery">
+		<AssetGroup Name="enbg-scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

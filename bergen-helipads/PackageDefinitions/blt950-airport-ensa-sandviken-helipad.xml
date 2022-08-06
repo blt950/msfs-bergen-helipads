@@ -16,10 +16,10 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-ensa-sandviken-helipad\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-ensa-sandviken-helipad\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-ensa-sandviken-helipad\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="materials">
+		<AssetGroup Name="enbi-materials">
 			<Type>MaterialLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
@@ -27,7 +27,7 @@
 			<AssetDir>PackageSources\materials\</AssetDir>
 			<OutputDir>MaterialLibs\materials\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="scenery">
+		<AssetGroup Name="enbi-scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

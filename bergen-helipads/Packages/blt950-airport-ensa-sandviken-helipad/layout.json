@@ -1,19 +1,14 @@
 {
   "content": [
     {
-      "path": "ContentInfo/blt950-airport-ensa-sandviken-helipad/Thumbnail.jpg",
-      "size": 87086,
-      "date": 133042710459308559
-    },
-    {
       "path": "MaterialLibs/materials/Library.xml",
       "size": 2212,
-      "date": 133042717481380064
+      "date": 133042721279294521
     },
     {
       "path": "MaterialLibs/materials/Textures/HELIPAD_ARROW.PNG.DDS",
       "size": 349700,
-      "date": 133042717482540066
+      "date": 133042721280349230
     },
     {
       "path": "MaterialLibs/materials/Textures/helipad_arrow.png.DDS.FLAGS",
@@ -23,12 +18,12 @@
     {
       "path": "MaterialLibs/materials/Textures/HELIPAD_ARROW.PNG.DDS.json",
       "size": 249,
-      "date": 133042717482475049
+      "date": 133042721280289228
     },
     {
       "path": "MaterialLibs/materials/Textures/NO_HELIPAD.PNG.DDS",
       "size": 349700,
-      "date": 133042717483490049
+      "date": 133042721281419195
     },
     {
       "path": "MaterialLibs/materials/Textures/no_helipad.png.DDS.FLAGS",
@@ -38,22 +33,22 @@
     {
       "path": "MaterialLibs/materials/Textures/NO_HELIPAD.PNG.DDS.json",
       "size": 247,
-      "date": 133042717483485049
+      "date": 133042721281414175
     },
     {
       "path": "scenery/blt950/ENBG.bgl",
       "size": 10545,
-      "date": 133042717483825006
+      "date": 133042721281749239
     },
     {
       "path": "scenery/blt950/ENBX.bgl",
       "size": 444,
-      "date": 133042717483980355
+      "date": 133042721281879607
     },
     {
       "path": "scenery/blt950/ENSA.bgl",
       "size": 412,
-      "date": 133042717484110394
+      "date": 133042721282009614
     }
   ]
 }
