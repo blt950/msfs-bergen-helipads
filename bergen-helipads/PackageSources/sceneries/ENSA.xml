@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Sandviken Helipad" groupID="4294967295" groupGenerated="FALSE" name="Sandviken Helipad" ident="ENSA" lat="62.40900000000000" lon="5.31700000000000" alt="40.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

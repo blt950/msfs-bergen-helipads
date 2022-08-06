@@ -4,6 +4,7 @@
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
 		<Package>PackageDefinitions\blt950-airport-enbg-gronneviksoren.xml</Package>
+		<Package>PackageDefinitions\blt950-airport-ensa-sandviken-helipad.xml</Package>
 	</Packages>
 </Project>
 
