@@ -1,0 +1,12 @@
+<Metadata Version="1">
+	<Entry Path="Textures\no_helipad.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="Textures\helipad_arrow.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<NamedEntry Name="_CommandVersions">
+		<![CDATA[030000005E67078CF269046D020000004D3CD729F4242A1302000000CBA7FA76C737EFD3020000003000000000000000]]>
+	</NamedEntry>
+</Metadata>
+
