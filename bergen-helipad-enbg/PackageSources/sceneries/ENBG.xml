@@ -592,8 +592,15 @@
 	<Group displayName="ENBG Structures" parentGroupID="1" groupIndex="2" groupID="4" groupGenerated="FALSE"/>
 	<Group displayName="ENBG Vegetation" parentGroupID="1" groupIndex="4" groupID="5" groupGenerated="FALSE"/>
 	<Airport displayName="Grønneviksøren" parentGroupID="1" groupIndex="3" groupID="6" groupGenerated="FALSE" name="Grønneviksøren" ident="ENBG" lat="60.38000000000000" lon="5.34600000000000" alt="47.70100402832031" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking parentGroupID="6" groupIndex="3" index="0" type="RAMP_GA_SMALL" lat="60.37984064253343" lon="5.34648585465341" heading="0.000000" radius="5.000000" name="PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Runway parentGroupID="6" groupIndex="1" lat="60.37990854304068" lon="5.34612624261529" alt="0.31307620368898" heading="250.00000000000000" length="3.00000000000000" width="3.00000000000000" patternAltitude="304.79998779296875" surface="{00000000-0000-0000-0000-000000000000}" transparent="FALSE" number="07" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="60.37933766794634" lon="5.34558853369819" alt="0.31378543935716" heading="25.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="60.38047941596801" lon="5.34666397039957" alt="0.31236286368221" heading="-155.00000000000000"/>
+		</Runway>
 		<Aprons>
-			<Apron parentGroupID="6" groupIndex="3" surface="{ABAF1B82-62CE-42D0-A79E-AA0B5AB368D4}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="2.000000" opacity="205" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="6" groupIndex="5" surface="{ABAF1B82-62CE-42D0-A79E-AA0B5AB368D4}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="2.000000" opacity="205" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="53" green="52" blue="52" alpha="255" override="TRUE"/>
 				<Vertex lat="60.37987453829231" lon="5.34563380251564"/>
 				<Vertex lat="60.37992449863552" lon="5.34562230257792"/>
@@ -621,7 +628,7 @@
 				<Vertex lat="60.37987048861618" lon="5.34552490047854"/>
 				<Vertex lat="60.37987287401386" lon="5.34557396439934"/>
 			</Apron>
-			<Apron parentGroupID="6" groupIndex="5" surface="{EDE62181-4A88-49CD-AE2D-EA84F714391B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="6" groupIndex="7" surface="{EDE62181-4A88-49CD-AE2D-EA84F714391B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="54" green="54" blue="54" alpha="255" override="TRUE"/>
 				<Vertex lat="60.37968384653277" lon="5.34568374248931"/>
 				<Vertex lat="60.37999266600084" lon="5.34560863087259"/>
@@ -631,7 +638,7 @@
 				<Vertex lat="60.37990290982447" lon="5.34671404608140"/>
 				<Vertex lat="60.37975411027126" lon="5.34675225158507"/>
 			</Apron>
-			<Apron displayName="Helipad Arrow" parentGroupID="6" groupIndex="1" surface="{6E2CBE4D-E8D0-465C-A0BB-C611E9EB4064}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="4.723208" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron displayName="Helipad Arrow" parentGroupID="6" groupIndex="2" surface="{6E2CBE4D-E8D0-465C-A0BB-C611E9EB4064}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="4.723208" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="60.37989723232355" lon="5.34591781128490"/>
 				<Vertex lat="60.37983126975245" lon="5.34591925282743"/>
 				<Vertex lat="60.37983055603486" lon="5.34578601169069"/>
@@ -643,7 +650,7 @@
 				<Vertex lat="60.37980766456051" lon="5.34602996760019"/>
 				<Vertex lat="60.37989616190369" lon="5.34596454165137"/>
 			</Apron>
-			<Apron displayName="Helipad Arrow (copy)" parentGroupID="6" groupIndex="2" surface="{6E2CBE4D-E8D0-465C-A0BB-C611E9EB4064}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.332666" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron displayName="Helipad Arrow (copy)" parentGroupID="6" groupIndex="4" surface="{6E2CBE4D-E8D0-465C-A0BB-C611E9EB4064}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.332666" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="60.37998396972931" lon="5.34629515326149"/>
 				<Vertex lat="60.37993029185471" lon="5.34637260634870"/>
 				<Vertex lat="60.37989194794140" lon="5.34626417944131"/>
@@ -651,7 +658,7 @@
 			</Apron>
 		</Aprons>
 		<PaintedElements>
-			<PaintedLine parentGroupID="6" groupIndex="4" type="DEFAULT" trueAngle="NONE">
+			<PaintedLine parentGroupID="6" groupIndex="6" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="60.37969146363319" lon="5.34570160184861"/>
 				<Vertex lat="60.37976277019501" lon="5.34673218765130"/>
 				<Vertex lat="60.38004820848223" lon="5.34665644506415"/>

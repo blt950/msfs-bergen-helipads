@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.1.0">
+<AssetPackage Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Haukeland Hospital Helipad</Title>
@@ -18,6 +18,14 @@
 			</Flags>
 			<AssetDir>PackageDefinitions\blt950-airport-enbx-bergen-haukeland-hospital-helipad\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-enbx-bergen-haukeland-hospital-helipad\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enbx-models">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-enbx-bergen-haukeland-hospital-helipad\enbx-models\</AssetDir>
+			<OutputDir>Scenery\airport-enbx-bergen-haukeland-hospital-helipad\enbx-models\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbx-scenery">
 			<Type>BGL</Type>

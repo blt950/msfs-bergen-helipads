@@ -1,28 +1,15 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<!--SceneryObject name: Container_Red-->
-	<SceneryObject parentGroupID="1" lat="60.37308577747125" lon="5.35837448339536" alt="6.57430157168133" pitch="-88.366494" bank="70.599847" heading="-66.972819" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{FD1EE2A3-EED6-49BE-8326-11C562E480EC}" scale="1.000000"/>
+	<SceneryObject groupIndex="2" lat="60.37342430847962" lon="5.35841461316736" alt="22.73667591669115" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<!--SceneryObject name: Container_Red-->
-	<SceneryObject displayName="Container_Red (copy 2)" parentGroupID="1" groupIndex="1" lat="60.37308622187810" lon="5.35832117642017" alt="6.62715460001371" pitch="-88.366494" bank="70.599847" heading="-66.972819" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{FD1EE2A3-EED6-49BE-8326-11C562E480EC}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: Container_Red-->
-	<SceneryObject displayName="Container_Red (copy 1)" parentGroupID="1" groupIndex="3" lat="60.37311444783732" lon="5.35832117642075" alt="6.85621638608862" pitch="-88.366494" bank="70.599847" heading="-66.972819" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{FD1EE2A3-EED6-49BE-8326-11C562E480EC}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: Container_Red-->
-	<SceneryObject displayName="Container_Red (copy)" parentGroupID="1" groupIndex="2" lat="60.37311444786130" lon="5.35837448339539" alt="6.83479523442631" pitch="-88.366494" bank="70.599847" heading="-66.972819" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{FD1EE2A3-EED6-49BE-8326-11C562E480EC}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: GIZA_Helipad-->
-	<SceneryObject parentGroupID="1" groupIndex="4" lat="60.37315593634356" lon="5.35849151505537" alt="17.16209800801417" pitch="0.000861" bank="-0.000861" heading="1.034883" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{607609DF-F15C-4544-8D48-020B685E4312}" scale="1.000000"/>
+	<!--SceneryObject name: enbx_helipad-->
+	<SceneryObject groupIndex="1" lat="60.37313639940974" lon="5.35831335894330" alt="18.79697799278310" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{B705AFDE-5C06-4DFE-903F-92286F407202}" scale="1.000000"/>
 	</SceneryObject>
 	<LandmarkLocation instanceId="{9ED93678-FBCA-4C34-ACB1-34A04405B6D6}" type="POI" name="Bergen Haukeland Hospital Helipad" lat="60.37316140771554" lon="5.35848099280770" alt="76.19842198491096" offset="0.000000"/>
-	<Group displayName="ENBX" groupIndex="1" groupID="1" groupGenerated="FALSE"/>
-	<Airport displayName="Bergen Haukeland Hospital Helipad" parentGroupID="1" groupIndex="5" groupID="2" groupGenerated="FALSE" name="Bergen Haukeland Hospital Helipad" ident="ENBX" lat="60.37327598701675" lon="5.35838087021850" alt="79.34536497760564" magvar="0.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+	<Group displayName="ENBX" groupIndex="3" groupID="1" groupGenerated="FALSE"/>
+	<Airport displayName="Bergen Haukeland Hospital Helipad" parentGroupID="1" groupID="2" groupGenerated="FALSE" name="Bergen Haukeland Hospital Helipad" ident="ENBX" lat="60.37327598700265" lon="5.35838087021860" alt="79.61403779319055" magvar="0.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>

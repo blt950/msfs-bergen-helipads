@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{b705afde-5c06-4dfe-903f-92286f407202}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="enbx_helipad.gltf"/>
+	</LODS>
+</ModelInfo>
