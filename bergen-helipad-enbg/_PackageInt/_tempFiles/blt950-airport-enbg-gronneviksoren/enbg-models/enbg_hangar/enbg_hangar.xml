@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{e017b162-9a15-42ea-826d-2f8182c16caf}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="enbg_hangar.gltf"/>
+	</LODS>
+</ModelInfo>

@@ -1,12 +1,12 @@
 ALL
 - Night lightning
-- Remove POI of runway-hacked airports
 
 ENBG
-- Hangar and house model
-- Highten the terrain, to make a 1-drop or something to the sea.
 - Wear and tear, especially on the H
 - Move the parking to middle of H
+- Windows are weird in some weather conditions
+- Reduce texture quality to save space
+- Smaller windsock
 
 ENBX
 - High def model and textures

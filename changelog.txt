@@ -1,0 +1,8 @@
+v0.3.0
+
+- Custom hangar and house model added
+- Heightened the terrain to match real life MSA height 2 meters.
+- Removed the POI as it's already defined as an "airport"
+- Added 3 parking spots, in middle, on the side and by the hangar.
+
+Requirement: Bergen something scenery you know

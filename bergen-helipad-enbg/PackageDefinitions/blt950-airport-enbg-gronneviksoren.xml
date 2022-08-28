@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.2.0">
+<AssetPackage Version="0.3.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Grønneviksøren Heliport</Title>
@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-enbg-gronneviksoren\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbg-materials">
@@ -26,6 +26,14 @@
 			</Flags>
 			<AssetDir>PackageSources\materials\</AssetDir>
 			<OutputDir>MaterialLibs\materials\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enbg-models">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-enbg-gronneviksoren\enbg-models\</AssetDir>
+			<OutputDir>Scenery\airport-enbg-gronneviksoren\enbg-models\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbg-scenery">
 			<Type>BGL</Type>
