@@ -1,1 +1,12 @@
 models/export/texture/*
+models/materials/*
+
+bergen-helipad-enbg/_PackageInt
+bergen-helipad-enbg/Packages
+bergen-helipad-enbg/PackageSources/Scenery/airport-enbg-gronneviksoren/enbg-models/texture
+
+bergen-helipad-enbx/_PackageInt
+bergen-helipad-enbx/Packages
+
+bergen-helipad-enbi/_PackageInt
+bergen-helipad-enbi/Packages
