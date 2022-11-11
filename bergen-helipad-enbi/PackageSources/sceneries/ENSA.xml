@@ -84,7 +84,7 @@
 	<SceneryObject parentGroupID="2" groupIndex="2" lat="60.40943985200707" lon="5.31733587084493" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="19.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{171149C1-8CF5-4ED3-AE05-7BD61EFB1214}" scale="1.000000"/>
 	</SceneryObject>
-	<!--SceneryObject name: ts-boatshed-->
+	<!--SceneryObject name: Unknown-->
 	<SceneryObject parentGroupID="2" lat="60.40959776065987" lon="5.31704526970297" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-29.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5C04C363-5DF6-4B0A-EDD6-78BBB7D72231}" scale="1.000000"/>
 	</SceneryObject>
@@ -167,7 +167,7 @@
 	<Group displayName="ENBI" groupID="1" groupGenerated="FALSE"/>
 	<Group displayName="ENBI Objects" parentGroupID="1" groupIndex="3" groupID="2" groupGenerated="FALSE"/>
 	<Group displayName="ENBI Vegetation" parentGroupID="1" groupID="3" groupGenerated="FALSE"/>
-	<Airport displayName="Sandviken Helipad" parentGroupID="1" groupIndex="6" groupID="4" groupGenerated="FALSE" name="Sandviken Helipad" ident="ENSA" lat="60.40931607517148" lon="5.31711087641540" alt="12.79747519362718" magvar="0.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+	<Airport displayName="Sandviken Helipad" parentGroupID="1" groupIndex="6" groupID="4" groupGenerated="FALSE" name="Sandviken Helipad" ident="ENSA" lat="60.40931607517148" lon="5.31711087641540" alt="12.79747519362718" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<Aprons>
 			<Apron parentGroupID="4" surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1000000011" tiling="25.000000" heading="0.000000" falloff="0.300000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.40941798904039" lon="5.31689766864976"/>

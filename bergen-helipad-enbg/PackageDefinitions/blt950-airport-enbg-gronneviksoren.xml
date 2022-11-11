@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.3.0">
+<AssetPackage Version="0.4.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Grønneviksøren Heliport</Title>
@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-enbg-gronneviksoren\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbg-materials">

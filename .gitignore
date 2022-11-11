@@ -1,5 +1,6 @@
 models/export/texture/*
 models/materials/*
+models/texture/*
 
 bergen-helipad-enbg/_PackageInt
 bergen-helipad-enbg/Packages

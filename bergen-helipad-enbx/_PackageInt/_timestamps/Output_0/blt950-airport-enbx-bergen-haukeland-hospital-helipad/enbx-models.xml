@@ -1,19 +1,19 @@
 <Timestamps>
-	<Entry Path="texture\DIAMONDPLATE001_2K_COLOR.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\CORRUGATEDMETALPANEL02_2K_BASECOLOR.PNG" Timestamp="13304357739"/>
+	<Entry Path="texture\DiamondPlate001_2K_Color.png" Timestamp="13304357739"/>
+	<Entry Path="texture\Pipe004_4K_Roughness.png" Timestamp="13304357739"/>
+	<Entry Path="texture\Metal032_2K_NormalDX.png" Timestamp="13304357739"/>
 	<Entry Path="enbx_helipad\enbx_helipad.gltf" Timestamp="13304360443"/>
-	<Entry Path="texture\NO_MEDIPAD.PNG" Timestamp="13304357739"/>
 	<Entry Path="enbx_helipad\enbx_helipad.xml" Timestamp="13304360443"/>
-	<Entry Path="texture\METAL032_2K_COLOR.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\PIPE004_4K_ROUGHNESS.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\METAL032_2K_ROUGHNESS.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\CORRUGATEDMETALPANEL02_2K_NORMAL.PNG" Timestamp="13304357739"/>
+	<Entry Path="texture\Metal032_2K_Roughness.png" Timestamp="13304357739"/>
+	<Entry Path="texture\no_medipad.png" Timestamp="13304357739"/>
+	<Entry Path="texture\CorrugatedMetalPanel02_2K_Normal.png" Timestamp="13304357739"/>
+	<Entry Path="texture\DiamondPlate001_2K_NormalDX.png" Timestamp="13304357739"/>
+	<Entry Path="texture\Pipe004_4K_NormalDX.png" Timestamp="13304357739"/>
+	<Entry Path="texture\DiamondPlate001_2K_Roughness.png" Timestamp="13304357739"/>
+	<Entry Path="texture\CorrugatedMetalPanel02_2K_Roughness.png" Timestamp="13304357739"/>
 	<Entry Path="enbx_helipad\enbx_helipad.bin" Timestamp="13304360443"/>
-	<Entry Path="texture\CORRUGATEDMETALPANEL02_2K_ROUGHNESS.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\DIAMONDPLATE001_2K_NORMALDX.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\METAL032_2K_NORMALDX.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\DIAMONDPLATE001_2K_ROUGHNESS.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\PIPE004_4K_NORMALDX.PNG" Timestamp="13304357739"/>
-	<Entry Path="texture\PIPE004_4K_COLOR.PNG" Timestamp="13304357739"/>
+	<Entry Path="texture\Metal032_2K_Color.png" Timestamp="13304357739"/>
+	<Entry Path="texture\CorrugatedMetalPanel02_2K_BaseColor.png" Timestamp="13304357739"/>
+	<Entry Path="texture\Pipe004_4K_Color.png" Timestamp="13304357739"/>
 </Timestamps>
 

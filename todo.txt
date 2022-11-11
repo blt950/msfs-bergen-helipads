@@ -3,9 +3,6 @@ ALL
 
 ENBG
 - Wear and tear, especially on the H
-- Move the parking to middle of H
-- Windows are weird in some weather conditions
-- Reduce texture quality to save space
 - Smaller windsock
 
 ENBX
@@ -14,3 +11,9 @@ ENBX
 ENBI
 - Spawnable via runway hack
 - Model the pier
+
+Done so far:
+- Changed airport to heliport
+- Added night light modelling (ENBG)
+- Fixed reflective walls on some of the buildings
+- Improved and reduced texture size (addon is now 5x smaller)

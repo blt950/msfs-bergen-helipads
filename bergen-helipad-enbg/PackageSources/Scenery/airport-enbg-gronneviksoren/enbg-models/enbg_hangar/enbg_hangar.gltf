@@ -5,16 +5,48 @@
                 "tangent_space_convention" : "DirectX"
             }
         },
-        "generator" : "Khronos glTF Blender I/O v3.2.43 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "generator" : "Khronos glTF Blender I/O v1.8.19 and Asobo Studio MSFS Blender I/O v1.1.6",
         "version" : "2.0"
     },
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
-        "ASOBO_material_glass"
+        "ASOBO_material_glass",
+        "ASOBO_macro_light"
     ],
     "scene" : 0,
     "scenes" : [
         {
+            "extras" : {
+                "msfs_exporter_properties" : {},
+                "msfs_multi_exporter_current_tab" : 0,
+                "msfs_multi_exporter_settings" : {
+                    "export_texture_dir" : "texture",
+                    "export_apply" : 1,
+                    "use_active_collection" : 1,
+                    "export_extras" : 1,
+                    "export_lights" : 1
+                },
+                "msfs_multi_exporter_lod_groups" : [
+                    {
+                        "group_name" : "enbg_hangar",
+                        "lods" : [
+                            {
+                                "collection" : {
+                                    "name" : "enbg_hangar",
+                                    "type" : "Collection"
+                                },
+                                "file_name" : "enbg_hangar",
+                                "enabled" : 1
+                            }
+                        ],
+                        "generate_xml" : 1,
+                        "overwrite_guid" : 0,
+                        "folder_name" : "//export\\"
+                    }
+                ],
+                "multi_exporter_show_hidden_objects" : 0,
+                "multi_exporter_grouped_by_collections" : 1
+            },
             "name" : "Scene",
             "nodes" : [
                 0,
@@ -39,7 +71,9 @@
                 19,
                 20,
                 21,
-                22
+                22,
+                24,
+                26
             ]
         }
     ],
@@ -101,7 +135,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "translation" : [
@@ -129,7 +163,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "translation" : [
@@ -198,7 +232,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "scale" : [
@@ -258,7 +292,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "scale" : [
@@ -276,14 +310,14 @@
             "mesh" : 13,
             "name" : "Fireext1.001",
             "rotation" : [
-                -0.7071064710617065,
-                -0.7071064114570618,
-                0.0006921092281118035,
-                0.0006921390304341912
+                0.7071064710617065,
+                0.7071064114570618,
+                -0.0006921092863194644,
+                -0.000692139146849513
             ],
             "scale" : [
                 0.3499999940395355,
-                0.11000000685453415,
+                0.10999999940395355,
                 0.15000002086162567
             ],
             "translation" : [
@@ -325,7 +359,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "translation" : [
@@ -353,7 +387,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "translation" : [
@@ -366,10 +400,10 @@
             "mesh" : 17,
             "name" : "Fireext1.002",
             "rotation" : [
-                -0.7071064710617065,
-                -0.7071064114570618,
-                0.0006921093445271254,
-                0.0006921390304341912
+                0.7071064710617065,
+                0.7071064114570618,
+                -0.0006921092863194644,
+                -0.000692139146849513
             ],
             "scale" : [
                 0.3499999940395355,
@@ -388,7 +422,7 @@
             "rotation" : [
                 0,
                 0,
-                -0.7071067094802856,
+                -0.7071067690849304,
                 0.7071068286895752
             ],
             "scale" : [
@@ -406,14 +440,14 @@
             "mesh" : 19,
             "name" : "Fireext1.003",
             "rotation" : [
-                -0.7071064710617065,
-                -0.7071064114570618,
-                0.0006921092281118035,
-                0.0006921390304341912
+                0.7071064710617065,
+                0.7071064114570618,
+                -0.0006921092863194644,
+                -0.000692139146849513
             ],
             "scale" : [
                 0.3499999940395355,
-                0.11000000685453415,
+                0.10999999940395355,
                 0.15000002086162567
             ],
             "translation" : [
@@ -421,10 +455,137 @@
                 1.3010773658752441,
                 6.421947479248047
             ]
+        },
+        {
+            "name" : "left_light_spot_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                23
+            ],
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.8642857074737549,
+                        0.6142857670783997,
+                        0.20000000298023224
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 149.57666221918373,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 0,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "left_light_spot",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -9.734564781188965,
+                5.885735034942627,
+                -6.407602787017822
+            ]
+        },
+        {
+            "name" : "right_light_spot_Orientation",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "children" : [
+                25
+            ],
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.8640000224113464,
+                        0.6140000224113464,
+                        0.20000000298023224
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 149.99999734394112,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 0,
+                "msfs_light_day_night_cycle" : 1
+            },
+            "name" : "right_light_spot",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -9.734564781188965,
+                5.885735034942627,
+                6.402275562286377
+            ]
         }
     ],
     "materials" : [
         {
+            "extras" : {
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_blend_mask_texture" : {},
+                "msfs_material_type" : 1,
+                "msfs_base_color_texture" : {
+                    "name" : "GravelWall01_4K_BaseColor.png.001",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "GravelWall01_4K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "GravelWall01_4K_Normal.png.001",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Gravel",
             "normalTexture" : {
                 "index" : 0
@@ -443,6 +604,12 @@
         },
         {
             "doubleSided" : true,
+            "extras" : {
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_blend_mask_texture" : {}
+            },
             "name" : "Frame",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -456,6 +623,46 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Shingles_Asphalt_001_COLOR.jpg",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "super_rough_1k_comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Shingles_Asphalt_001_NORM.jpg",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.33432453870773315,
+                    0.33432453870773315,
+                    0.33432453870773315,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_normal_scale" : 1.0,
+                "msfs_detail_uv_scale" : 1.0,
+                "msfs_detail_normal_scale" : 1.0,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_day_night_cycle" : 0,
+                "msfs_no_cast_shadow" : 0,
+                "msfs_alpha_mode" : 0
+            },
             "name" : "Roof",
             "normalTexture" : {
                 "index" : 3
@@ -480,6 +687,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "MetalWalkway011_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "MetalWalkway011_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "MetalWalkway011_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Vent",
             "normalTexture" : {
                 "index" : 6
@@ -504,6 +744,31 @@
                     "glassDeformationFactor" : 0
                 }
             },
+            "extras" : {
+                "msfs_material_type" : 6,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.11068913340568542,
+                    0.11068913340568542,
+                    0.11068913340568542,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Glass.001",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -516,6 +781,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Concrete032_2K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Concrete032_2K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Concrete032_2K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Concrete",
             "normalTexture" : {
                 "index" : 9
@@ -534,6 +832,12 @@
         },
         {
             "doubleSided" : true,
+            "extras" : {
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_blend_mask_texture" : {}
+            },
             "name" : "Window Frame",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -547,6 +851,33 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "doorv2.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Door",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -555,6 +886,33 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "garage_door.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Garagedoor2",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -563,7 +921,32 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "sign_door.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.5800000429153442,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Info Sign",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -573,7 +956,32 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "enbg_main_sign.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.699999988079071,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Main Sign",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -584,6 +992,12 @@
         },
         {
             "doubleSided" : true,
+            "extras" : {
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_blend_mask_texture" : {}
+            },
             "name" : "Material",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -597,6 +1011,42 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Metal024_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Metal024_1K_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Metal024_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_normal_scale" : 1.0,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_no_cast_shadow" : 0
+            },
             "name" : "Metal",
             "normalTexture" : {
                 "index" : 16
@@ -622,6 +1072,31 @@
                     "glassDeformationFactor" : 0
                 }
             },
+            "extras" : {
+                "msfs_material_type" : 6,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.18447011709213257,
+                    0.18447011709213257,
+                    0.18447011709213257,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Glass",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -634,6 +1109,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic010_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic010_1K_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic010_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Cable",
             "normalTexture" : {
                 "index" : 19
@@ -653,6 +1161,12 @@
         },
         {
             "doubleSided" : true,
+            "extras" : {
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_blend_mask_texture" : {}
+            },
             "name" : "Material.005",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -666,6 +1180,41 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Metal024_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Metal024_1K_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Metal024_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.2461952567100525,
+                    0.2461952567100525,
+                    0.2461952567100525,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_detail_uv_scale" : 1.0
+            },
             "name" : "Material.001",
             "normalTexture" : {
                 "index" : 22
@@ -691,6 +1240,34 @@
         },
         {
             "alphaMode" : "BLEND",
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "extinguisher_sign4.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.2800000309944153,
+                "msfs_roughness_factor" : 0.8500000238418579,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Firesign",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -701,6 +1278,41 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Metal024_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Metal024_1K_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Metal024_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.2461952567100525,
+                    0.2461952567100525,
+                    0.2461952567100525,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_detail_uv_scale" : 1.0
+            },
             "name" : "Material.004",
             "normalTexture" : {
                 "index" : 26
@@ -722,7 +1334,34 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "extinguisher_sign2.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.2800000309944153,
+                "msfs_roughness_factor" : 0.8500000238418579,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Firesign.001",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -733,6 +1372,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic007_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic007_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic007_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    0.38305094838142395,
+                    0.4170210063457489,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Plastic.001",
             "normalTexture" : {
                 "index" : 30
@@ -754,6 +1426,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic006_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic006_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic006_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Black Plastic.001",
             "normalTexture" : {
                 "index" : 33
@@ -776,6 +1481,31 @@
                     "glassDeformationFactor" : 0
                 }
             },
+            "extras" : {
+                "msfs_material_type" : 6,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.07658018171787262,
+                    0.07658018171787262,
+                    0.07658018171787262,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Window.001",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -788,6 +1518,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic010_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic010_1K_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic010_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Material.006",
             "normalTexture" : {
                 "index" : 36
@@ -806,6 +1569,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic007_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic007_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic007_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    0.38305094838142395,
+                    0.4170210063457489,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Plastic.002",
             "normalTexture" : {
                 "index" : 39
@@ -827,6 +1623,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic006_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic006_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic006_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Black Plastic.002",
             "normalTexture" : {
                 "index" : 42
@@ -849,6 +1678,31 @@
                     "glassDeformationFactor" : 0
                 }
             },
+            "extras" : {
+                "msfs_material_type" : 6,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.07658018171787262,
+                    0.07658018171787262,
+                    0.07658018171787262,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Window.002",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -861,7 +1715,34 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "extinguisher_sign3.png.001",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.2800000309944153,
+                "msfs_roughness_factor" : 0.8500000238418579,
+                "msfs_alpha_mode" : 2
+            },
             "name" : "Firesign.002",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -872,6 +1753,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic007_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic007_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic007_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    0.38305094838142395,
+                    0.4170210063457489,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Plastic.003",
             "normalTexture" : {
                 "index" : 46
@@ -893,6 +1807,39 @@
             }
         },
         {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Plastic006_1K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Plastic006_1K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Plastic006_1K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
             "name" : "Black Plastic.003",
             "normalTexture" : {
                 "index" : 49
@@ -914,6 +1861,31 @@
                     "glassReflectionMaskFactor" : 0,
                     "glassDeformationFactor" : 0
                 }
+            },
+            "extras" : {
+                "msfs_material_type" : 6,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {},
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.07658018171787262,
+                    0.07658018171787262,
+                    0.07658018171787262,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2
             },
             "name" : "Window.003",
             "pbrMetallicRoughness" : {
@@ -1597,8 +2569,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "GravelWall01_4K_Roughness",
-            "uri" : "GravelWall01_4K_Roughness.png"
+            "name" : "GravelWall01_4K_Comp",
+            "uri" : "GravelWall01_4K_Comp.png"
         },
         {
             "mimeType" : "image/png",
@@ -1611,9 +2583,9 @@
             "uri" : "Shingles_Asphalt_001_NORM.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "Shingles_Asphalt_001_ROUGH",
-            "uri" : "Shingles_Asphalt_001_ROUGH.jpg"
+            "mimeType" : "image/png",
+            "name" : "super_rough_1k_comp",
+            "uri" : "super_rough_1k_comp.png"
         },
         {
             "mimeType" : "image/png",
@@ -1622,33 +2594,33 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "MetalWalkway011_2K_NormalGL",
-            "uri" : "MetalWalkway011_2K_NormalGL.png"
+            "name" : "MetalWalkway011_1K_NormalGL",
+            "uri" : "MetalWalkway011_1K_NormalGL.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "MetalWalkway011_2K_Roughness",
-            "uri" : "MetalWalkway011_2K_Roughness.png"
+            "name" : "MetalWalkway011_1K_Comp",
+            "uri" : "MetalWalkway011_1K_Comp.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "MetalWalkway011_2K_Color",
-            "uri" : "MetalWalkway011_2K_Color.png"
+            "name" : "MetalWalkway011_1K_Color",
+            "uri" : "MetalWalkway011_1K_Color.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Concrete032_4K_NormalDX",
-            "uri" : "Concrete032_4K_NormalDX.png"
+            "name" : "Concrete032_2K_NormalGL",
+            "uri" : "Concrete032_2K_NormalGL.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Concrete032_4K_Roughness",
-            "uri" : "Concrete032_4K_Roughness.png"
+            "name" : "Concrete032_2K_Comp",
+            "uri" : "Concrete032_2K_Comp.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Concrete032_4K_Color",
-            "uri" : "Concrete032_4K_Color.png"
+            "name" : "Concrete032_2K_Color",
+            "uri" : "Concrete032_2K_Color.png"
         },
         {
             "mimeType" : "image/png",
@@ -1672,33 +2644,33 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Metal024_4K_NormalDX",
-            "uri" : "Metal024_4K_NormalDX.png"
+            "name" : "Metal024_1K_NormalGL",
+            "uri" : "Metal024_1K_NormalGL.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Metal024_4K_Roughness",
-            "uri" : "Metal024_4K_Roughness.png"
+            "name" : "Metal024_1K_COMP",
+            "uri" : "Metal024_1K_COMP.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Metal024_4K_Color",
-            "uri" : "Metal024_4K_Color.png"
+            "name" : "Metal024_1K_Color",
+            "uri" : "Metal024_1K_Color.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic010_4K_NormalDX",
-            "uri" : "Plastic010_4K_NormalDX.png"
+            "name" : "Plastic010_1K_NormalGL",
+            "uri" : "Plastic010_1K_NormalGL.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic010_4K_Roughness",
-            "uri" : "Plastic010_4K_Roughness.png"
+            "name" : "Plastic010_1K_COMP",
+            "uri" : "Plastic010_1K_COMP.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic010_4K_Color",
-            "uri" : "Plastic010_4K_Color.png"
+            "name" : "Plastic010_1K_Color",
+            "uri" : "Plastic010_1K_Color.png"
         },
         {
             "mimeType" : "image/png",
@@ -1712,33 +2684,33 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic007_4K_NormalDX",
-            "uri" : "Plastic007_4K_NormalDX.png"
+            "name" : "Plastic007_1K_NormalGL",
+            "uri" : "Plastic007_1K_NormalGL.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic007_4K_Color",
-            "uri" : "Plastic007_4K_Color.png"
+            "name" : "Plastic007_1K_Color",
+            "uri" : "Plastic007_1K_Color.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic007_4K_Roughness",
-            "uri" : "Plastic007_4K_Roughness.png"
+            "name" : "Plastic007_1K_Comp",
+            "uri" : "Plastic007_1K_Comp.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic006_4K_NormalDX",
-            "uri" : "Plastic006_4K_NormalDX.png"
+            "name" : "Plastic006_1K_NormalGL",
+            "uri" : "Plastic006_1K_NormalGL.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic006_4K_Color",
-            "uri" : "Plastic006_4K_Color.png"
+            "name" : "Plastic006_1K_Color",
+            "uri" : "Plastic006_1K_Color.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plastic006_4K_Roughness",
-            "uri" : "Plastic006_4K_Roughness.png"
+            "name" : "Plastic006_1K_Comp",
+            "uri" : "Plastic006_1K_Comp.png"
         },
         {
             "mimeType" : "image/png",

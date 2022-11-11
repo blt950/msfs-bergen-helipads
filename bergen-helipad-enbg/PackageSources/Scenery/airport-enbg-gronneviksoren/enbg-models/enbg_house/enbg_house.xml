@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ModelInfo guid="{42f31ee7-9688-46af-bf41-9dc33430431d}" version="1.1">
+<ModelInfo guid="{f123a404-5362-4794-a6d6-4e2ffd0c6367}" version="1.1">
 	<LODS>
 		<LOD minSize="0" ModelFile="enbg_house.gltf"/>
 	</LODS>
