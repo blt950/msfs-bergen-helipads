@@ -237,74 +237,92 @@
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgebeam-->
 	<SceneryObject displayName="enbg_edgebeam (copy)" groupIndex="2" lat="60.37969037698065" lon="5.34570278357231" alt="0.00000000000000" pitch="0.002042" bank="-0.002042" heading="-55.136644" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{F420F309-8D4C-45E3-8F6B-4BD107B80906}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgebeam-->
 	<SceneryObject displayName="enbg_edgebeam (copy 1)" groupIndex="3" lat="60.37976279165067" lon="5.34673213981796" alt="0.00000000000000" pitch="0.002281" bank="-0.003039" heading="-142.714153" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{F420F309-8D4C-45E3-8F6B-4BD107B80906}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgebeam-->
 	<SceneryObject groupIndex="5" lat="60.37998569282670" lon="5.34563116264711" alt="0.00000000000000" pitch="0.002111" bank="-0.002111" heading="38.538342" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{F420F309-8D4C-45E3-8F6B-4BD107B80906}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgebeam-->
 	<SceneryObject displayName="enbg_edgebeam (copy 2)" groupIndex="4" lat="60.38005039988762" lon="5.34665921316274" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="126.959966" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{F420F309-8D4C-45E3-8F6B-4BD107B80906}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy 5)" groupIndex="19" lat="60.37979183859154" lon="5.34567673593769" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy 6)" groupIndex="18" lat="60.37980906072113" lon="5.34567299973652" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
-	<SceneryObject displayName="enbg_edgelight (copy 4)" groupIndex="17" lat="60.37982418660840" lon="5.34566968587137" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="enbg_edgelight (copy 4)" groupIndex="17" lat="60.37982418660744" lon="5.34566968587137" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy 3)" groupIndex="16" lat="60.37983933437460" lon="5.34566604084831" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
-	<SceneryObject displayName="enbg_edgelight (copy 2)" groupIndex="20" lat="60.37985645968983" lon="5.34566205388804" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="enbg_edgelight (copy 2)" groupIndex="20" lat="60.37985645968800" lon="5.34566205388805" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy 1)" groupIndex="15" lat="60.37987397899717" lon="5.34565858930769" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy)" groupIndex="14" lat="60.37989338631420" lon="5.34565319582638" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="174.164824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
-	<SceneryObject groupIndex="13" lat="60.38002607242611" lon="5.34628972307608" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="13" lat="60.38002607242520" lon="5.34628972307609" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy)" groupIndex="7" lat="60.38002841152040" lon="5.34632514085036" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
-	<SceneryObject displayName="enbg_edgelight (copy 1)" groupIndex="8" lat="60.38003116417173" lon="5.34636568392231" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="enbg_edgelight (copy 1)" groupIndex="8" lat="60.38003116417097" lon="5.34636568392231" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
-	<SceneryObject displayName="enbg_edgelight (copy 2)" groupIndex="9" lat="60.38003365778601" lon="5.34640460433503" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="enbg_edgelight (copy 2)" groupIndex="9" lat="60.38003365778507" lon="5.34640460433504" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
-	<SceneryObject displayName="enbg_edgelight (copy 3)" groupIndex="12" lat="60.38003637966541" lon="5.34644606277181" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="enbg_edgelight (copy 3)" groupIndex="12" lat="60.38003637966463" lon="5.34644606278144" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy 4)" groupIndex="11" lat="60.38003847594784" lon="5.34648448427767" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_edgelight-->
 	<SceneryObject displayName="enbg_edgelight (copy 5)" groupIndex="10" lat="60.38004115957197" lon="5.34652518017897" alt="0.00000000000000" pitch="0.001544" bank="-0.002520" heading="-96.812563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoSnow/>
 		<LibraryObject name="{E7FD783E-3B72-4570-8769-77FBC4A31A9F}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: enbg_hangar-->

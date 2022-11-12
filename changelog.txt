@@ -1,3 +1,12 @@
+v0.4.0
+
+- Added SU11 support
+- Added night lightning at ENBG and ENBX
+- Improved ENBX helipad model
+- Created new SU11 helipads, you can now spawn on all helipads
+- Fixed reflective walls and textures
+- Reduced texture sizes (addon is now half the size)
+
 v0.3.0
 
 - Custom hangar and house model added

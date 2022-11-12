@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{57c7935a-a49d-4eb0-9066-2a691d91d9fb}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="enbx_edgebeam.gltf"/>
+	</LODS>
+</ModelInfo>

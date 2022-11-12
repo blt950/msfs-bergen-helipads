@@ -1,149 +1,204 @@
 {
   "content": [
     {
+      "path": "ContentInfo/blt950-airport-enbx-bergen-haukeland-hospital-helipad/ContentHistory.json",
+      "size": 177,
+      "date": 133127272641712445
+    },
+    {
       "path": "ContentInfo/blt950-airport-enbx-bergen-haukeland-hospital-helipad/Thumbnail.jpg",
       "size": 103854,
       "date": 133042728773997096
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/enbx-models.BGL",
-      "size": 4914158,
-      "date": 133085956274236692
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/enbx-models.BGL",
+      "size": 5263964,
+      "date": 133127252236169251
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/CORRUGATEDMETALPANEL02_2K_BASECOLOR.PNG.DDS",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DiamondPlate001_2K_Color.png.DDS",
       "size": 2796344,
-      "date": 133085956267521696
+      "date": 133127263184545256
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/CORRUGATEDMETALPANEL02_2K_BASECOLOR.PNG.DDS.json",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DiamondPlate001_2K_Color.png.DDS.json",
       "size": 102,
-      "date": 133085956267496692
+      "date": 133127263184545256
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/CORRUGATEDMETALPANEL02_2K_NORMAL.PNG.DDS",
-      "size": 5592560,
-      "date": 133085956271126694
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/CORRUGATEDMETALPANEL02_2K_NORMAL.PNG.DDS.json",
-      "size": 160,
-      "date": 133085956271091691
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/CORRUGATEDMETALPANEL02_2K_ROUGHNESS.PNG.DDS",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DiamondPlate001_2K_Comp.png.DDS",
       "size": 2796344,
-      "date": 133085956269311701
+      "date": 133127263184535257
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/CORRUGATEDMETALPANEL02_2K_ROUGHNESS.PNG.DDS.json",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DiamondPlate001_2K_Comp.png.DDS.json",
       "size": 166,
-      "date": 133085956269286705
+      "date": 133127263184535257
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_COLOR.PNG.DDS",
-      "size": 2796344,
-      "date": 133085956258831705
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_COLOR.PNG.DDS.json",
-      "size": 102,
-      "date": 133085956258801711
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_NORMALDX.PNG.DDS",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DiamondPlate001_2K_NormalDX.png.DDS",
       "size": 5592560,
-      "date": 133085956263776705
+      "date": 133127263184520259
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_NORMALDX.PNG.DDS.json",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DiamondPlate001_2K_NormalDX.png.DDS.json",
       "size": 160,
-      "date": 133085956263731692
+      "date": 133127263184520259
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_ROUGHNESS.PNG.DDS",
-      "size": 2796344,
-      "date": 133085956260471691
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_ROUGHNESS.PNG.DDS.json",
-      "size": 166,
-      "date": 133085956260451704
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/METAL032_2K_COLOR.PNG.DDS",
-      "size": 2796344,
-      "date": 133085956250321692
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/METAL032_2K_COLOR.PNG.DDS.json",
-      "size": 102,
-      "date": 133085956250301696
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/METAL032_2K_NORMALDX.PNG.DDS",
-      "size": 5592560,
-      "date": 133085956254591687
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/METAL032_2K_NORMALDX.PNG.DDS.json",
-      "size": 160,
-      "date": 133085956254546705
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/METAL032_2K_ROUGHNESS.PNG.DDS",
-      "size": 2796344,
-      "date": 133085956251776695
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/METAL032_2K_ROUGHNESS.PNG.DDS.json",
-      "size": 166,
-      "date": 133085956251756691
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/NO_MEDIPAD.PNG.DDS",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/helipad_arrow.png.DDS",
       "size": 349680,
-      "date": 133085956271681684
+      "date": 133127263184585249
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/NO_MEDIPAD.PNG.DDS.json",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/helipad_arrow.png.DDS.json",
       "size": 119,
-      "date": 133085956271671696
+      "date": 133127263184585249
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/PIPE004_4K_COLOR.PNG.DDS",
-      "size": 11184952,
-      "date": 133085956230296689
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal010_1K_Color.png.DDS",
+      "size": 699192,
+      "date": 133127262854145251
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/PIPE004_4K_COLOR.PNG.DDS.json",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal010_1K_Color.png.DDS.json",
       "size": 102,
-      "date": 133085956230171703
+      "date": 133127262854145251
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/PIPE004_4K_NORMALDX.PNG.DDS",
-      "size": 22369776,
-      "date": 133085956246681694
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal010_1K_Comp.jpg.DDS",
+      "size": 699192,
+      "date": 133127262854140245
     },
     {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/PIPE004_4K_NORMALDX.PNG.DDS.json",
-      "size": 160,
-      "date": 133085956246556696
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/PIPE004_4K_ROUGHNESS.PNG.DDS",
-      "size": 11184952,
-      "date": 133085956234351701
-    },
-    {
-      "path": "scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/PIPE004_4K_ROUGHNESS.PNG.DDS.json",
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal010_1K_Comp.jpg.DDS.json",
       "size": 166,
-      "date": 133085956234286704
+      "date": 133127262854140245
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal010_1K_NormalGL.jpg.DDS",
+      "size": 1398256,
+      "date": 133127262854130255
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal010_1K_NormalGL.jpg.DDS.json",
+      "size": 160,
+      "date": 133127262854130255
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal032_2K_Color.png.DDS",
+      "size": 2796344,
+      "date": 133127263184415261
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal032_2K_Color.png.DDS.json",
+      "size": 102,
+      "date": 133127263184415261
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal032_2K_Comp.png.DDS",
+      "size": 2796344,
+      "date": 133127263184405249
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal032_2K_Comp.png.DDS.json",
+      "size": 166,
+      "date": 133127263184405249
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal032_2K_NormalGL.png.DDS",
+      "size": 5592560,
+      "date": 133127263184385260
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Metal032_2K_NormalGL.png.DDS.json",
+      "size": 160,
+      "date": 133127263184385260
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/no_helipad_circle.png.DDS",
+      "size": 5592560,
+      "date": 133127263184580253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/no_helipad_circle.png.DDS.json",
+      "size": 119,
+      "date": 133127263184580253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/no_medipad_new.png.DDS",
+      "size": 349680,
+      "date": 133127263184575253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/no_medipad_new.png.DDS.json",
+      "size": 119,
+      "date": 133127263184575253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Pipe004_4K_Color.png.DDS",
+      "size": 11184952,
+      "date": 133127263184325257
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Pipe004_4K_Color.png.DDS.json",
+      "size": 102,
+      "date": 133127263184325257
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Pipe004_4K_Comp.png.DDS",
+      "size": 11184952,
+      "date": 133127263184305253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Pipe004_4K_Comp.png.DDS.json",
+      "size": 166,
+      "date": 133127263184305253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Pipe004_4K_NormalDX.png.DDS",
+      "size": 22369776,
+      "date": 133127263184290248
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Pipe004_4K_NormalDX.png.DDS.json",
+      "size": 160,
+      "date": 133127263184290248
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Plastic010_1K_Color.png.DDS",
+      "size": 699192,
+      "date": 133127263184575253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Plastic010_1K_Color.png.DDS.json",
+      "size": 102,
+      "date": 133127263184575253
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Plastic010_1K_COMP.png.DDS",
+      "size": 699192,
+      "date": 133127263184570263
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Plastic010_1K_COMP.png.DDS.json",
+      "size": 166,
+      "date": 133127263184570263
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Plastic010_1K_NormalGL.png.DDS",
+      "size": 1398256,
+      "date": 133127263184565259
+    },
+    {
+      "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/Plastic010_1K_NormalGL.png.DDS.json",
+      "size": 160,
+      "date": 133127263184565259
     },
     {
       "path": "scenery/blt950/ENBX.bgl",
-      "size": 758,
-      "date": 133085956215256693
+      "size": 3430,
+      "date": 133127272641607558
     }
   ]
 }
