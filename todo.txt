@@ -8,5 +8,8 @@ ENBI
 - Spawnable via runway hack
 - Model the pier
 
+ENBX
+- Concrete/grass under the helipad to override satelite photos
+
 Done so far:
 - 
