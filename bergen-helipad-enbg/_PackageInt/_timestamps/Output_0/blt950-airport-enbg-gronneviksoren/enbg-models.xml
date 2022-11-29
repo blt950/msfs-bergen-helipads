@@ -6,12 +6,12 @@
 	<Entry Path="enbg_hangar\enbg_hangar.bin" Timestamp="13312675323"/>
 	<Entry Path="enbg_house\enbg_house.xml" Timestamp="13312678135"/>
 	<Entry Path="texture\Metal024_1K_NormalGL.png" Timestamp="13312662991"/>
-	<Entry Path="ENBG_EDGEBEAM\ENBG_EDGEBEAM.gltf" Timestamp="13312711433"/>
+	<Entry Path="enbg_edgebeam\enbg_edgebeam.gltf" Timestamp="13312711433"/>
 	<Entry Path="texture\Concrete032_2K_Color.png" Timestamp="13312662991"/>
 	<Entry Path="texture\Plastic006_1K_Comp.png" Timestamp="13312662991"/>
 	<Entry Path="texture\MetalWalkway011_1K_NormalGL.png" Timestamp="13312662991"/>
 	<Entry Path="enbg_house\enbg_house.gltf" Timestamp="13312678156"/>
-	<Entry Path="ENBG_EDGEBEAM\enbg_edgebeam.bin" Timestamp="13312711433"/>
+	<Entry Path="enbg_edgebeam\enbg_edgebeam.bin" Timestamp="13312711433"/>
 	<Entry Path="enbg_edgelight\enbg_edgelight.gltf" Timestamp="13312663089"/>
 	<Entry Path="texture\Metal010_1K_NormalGL.jpg" Timestamp="13312663110"/>
 	<Entry Path="enbg_hangar\enbg_hangar.gltf" Timestamp="13312675323"/>
@@ -53,7 +53,7 @@
 	<Entry Path="enbg_edgelight\enbg_edgelight.bin" Timestamp="13312663089"/>
 	<Entry Path="texture\GravelWall01_4K_BaseColor.png" Timestamp="13312662991"/>
 	<Entry Path="texture\super_rough_1k_comp.png" Timestamp="13312662678"/>
-	<Entry Path="ENBG_EDGEBEAM\ENBG_EDGEBEAM.XML" Timestamp="13312711432"/>
+	<Entry Path="enbg_edgebeam\enbg_edgebeam.xml" Timestamp="13312711432"/>
 	<Entry Path="texture\Plastic010_1K_Color.png" Timestamp="13312663110"/>
 	<Entry Path="texture\Plastic007_1K_Color.png" Timestamp="13312662991"/>
 	<Entry Path="texture\1K-garage_door-normal.jpg" Timestamp="13312662678"/>

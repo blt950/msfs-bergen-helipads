@@ -13,10 +13,10 @@
     {
       "path": "MaterialLibs/materials/Library.xml",
       "size": 2212,
-      "date": 133126683104103012
+      "date": 133140345716519987
     },
     {
-      "path": "MaterialLibs/materials/Textures/helipad_arrow.png.DDS",
+      "path": "MaterialLibs/materials/Textures/HELIPAD_ARROW.PNG.DDS",
       "size": 349700,
       "date": 133042728774226865
     },
@@ -26,12 +26,12 @@
       "date": 133042728774231832
     },
     {
-      "path": "MaterialLibs/materials/Textures/helipad_arrow.png.DDS.json",
+      "path": "MaterialLibs/materials/Textures/HELIPAD_ARROW.PNG.DDS.json",
       "size": 249,
       "date": 133042728774226865
     },
     {
-      "path": "MaterialLibs/materials/Textures/no_medipad.png.DDS",
+      "path": "MaterialLibs/materials/Textures/NO_MEDIPAD.PNG.DDS",
       "size": 349700,
       "date": 133126764539164350
     },
@@ -41,502 +41,502 @@
       "date": 133042788899579788
     },
     {
-      "path": "MaterialLibs/materials/Textures/no_medipad.png.DDS.json",
+      "path": "MaterialLibs/materials/Textures/NO_MEDIPAD.PNG.DDS.json",
       "size": 249,
       "date": 133126764539164350
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/enbg-models.BGL",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/enbg-models.BGL",
       "size": 2477672,
-      "date": 133127114709029067
+      "date": 133140345837855289
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-garage_door-ao.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-GARAGE_DOOR-AO.PNG.DDS",
       "size": 699192,
       "date": 133126626784962333
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-garage_door-ao.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-GARAGE_DOOR-AO.PNG.DDS.json",
       "size": 102,
       "date": 133126626784962333
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-garage_door-normal.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-GARAGE_DOOR-NORMAL.JPG.DDS",
       "size": 1398256,
       "date": 133126626784952098
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-garage_door-normal.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/1K-GARAGE_DOOR-NORMAL.JPG.DDS.json",
       "size": 160,
       "date": 133126626784952098
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_diff_4k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_DIFF_4K.PNG.DDS",
       "size": 11184952,
       "date": 133126626785442202
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_diff_4k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_DIFF_4K.PNG.DDS.json",
       "size": 102,
       "date": 133126626785442202
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_disp_4k_comp.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_DISP_4K_COMP.PNG.DDS",
       "size": 11184952,
       "date": 133126626785302159
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_disp_4k_comp.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_DISP_4K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126626785302159
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_nor_gl_2k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_NOR_GL_2K.PNG.DDS",
       "size": 5592560,
       "date": 133126626785541202
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_nor_gl_2k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_NOR_GL_2K.PNG.DDS.json",
       "size": 160,
       "date": 133126626785541202
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_nor_gl_4k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_NOR_GL_4K.PNG.DDS",
       "size": 22369776,
       "date": 133126626785296783
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_nor_gl_4k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_NOR_GL_4K.PNG.DDS.json",
       "size": 160,
       "date": 133126626785296783
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_rough_4k.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_ROUGH_4K.JPG.DDS",
       "size": 11184952,
       "date": 133126626785455699
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/blue_painted_planks_rough_4k.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BLUE_PAINTED_PLANKS_ROUGH_4K.JPG.DDS.json",
       "size": 166,
       "date": 133126626785455699
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/brown_planks_05_diff_1k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BROWN_PLANKS_05_DIFF_1K.PNG.DDS",
       "size": 699192,
       "date": 133126631105232392
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/brown_planks_05_diff_1k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BROWN_PLANKS_05_DIFF_1K.PNG.DDS.json",
       "size": 102,
       "date": 133126631105232392
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/brown_planks_05_diff_1k_comp.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BROWN_PLANKS_05_DIFF_1K_COMP.JPG.DDS",
       "size": 699192,
       "date": 133126631105241077
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/brown_planks_05_diff_1k_comp.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BROWN_PLANKS_05_DIFF_1K_COMP.JPG.DDS.json",
       "size": 166,
       "date": 133126631105241077
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/brown_planks_05_nor_gl_1k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BROWN_PLANKS_05_NOR_GL_1K.PNG.DDS",
       "size": 1398256,
       "date": 133126631105227321
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/brown_planks_05_nor_gl_1k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/BROWN_PLANKS_05_NOR_GL_1K.PNG.DDS.json",
       "size": 160,
       "date": 133126631105227321
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Concrete032_2K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CONCRETE032_2K_COLOR.PNG.DDS",
       "size": 2796344,
       "date": 133126629914132255
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Concrete032_2K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CONCRETE032_2K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629914132255
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Concrete032_2K_Comp.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CONCRETE032_2K_COMP.PNG.DDS",
       "size": 2796344,
       "date": 133126629914112235
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Concrete032_2K_Comp.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CONCRETE032_2K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126629914112235
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Concrete032_2K_NormalGL.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CONCRETE032_2K_NORMALGL.PNG.DDS",
       "size": 5592560,
       "date": 133126629914096980
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Concrete032_2K_NormalGL.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CONCRETE032_2K_NORMALGL.PNG.DDS.json",
       "size": 160,
       "date": 133126629914096980
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/CorrugatedMetalPanel02_1K_BaseColor.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CORRUGATEDMETALPANEL02_1K_BASECOLOR.PNG.DDS",
       "size": 1398256,
       "date": 133126626785526135
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/CorrugatedMetalPanel02_1K_BaseColor.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CORRUGATEDMETALPANEL02_1K_BASECOLOR.PNG.DDS.json",
       "size": 119,
       "date": 133126626785526135
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/CorrugatedMetalPanel02_1K_COMP.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CORRUGATEDMETALPANEL02_1K_COMP.PNG.DDS",
       "size": 699192,
       "date": 133126626785521284
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/CorrugatedMetalPanel02_1K_COMP.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CORRUGATEDMETALPANEL02_1K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126626785521284
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/CorrugatedMetalPanel02_1K_Normal.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CORRUGATEDMETALPANEL02_1K_NORMAL.PNG.DDS",
       "size": 1398256,
       "date": 133126626785516207
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/CorrugatedMetalPanel02_1K_Normal.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/CORRUGATEDMETALPANEL02_1K_NORMAL.PNG.DDS.json",
       "size": 177,
       "date": 133126626785516207
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/dark_planks_comp_1k.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DARK_PLANKS_COMP_1K.JPG.DDS",
       "size": 699192,
       "date": 133126626785136796
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/dark_planks_comp_1k.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DARK_PLANKS_COMP_1K.JPG.DDS.json",
       "size": 166,
       "date": 133126626785136796
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/dark_planks_diff_1k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DARK_PLANKS_DIFF_1K.PNG.DDS",
       "size": 699192,
       "date": 133126626785147074
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/dark_planks_diff_1k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DARK_PLANKS_DIFF_1K.PNG.DDS.json",
       "size": 102,
       "date": 133126626785147074
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/dark_planks_nor_gl_1k.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DARK_PLANKS_NOR_GL_1K.PNG.DDS",
       "size": 1398256,
       "date": 133126626785136796
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/dark_planks_nor_gl_1k.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DARK_PLANKS_NOR_GL_1K.PNG.DDS.json",
       "size": 160,
       "date": 133126626785136796
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/doorv2.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DOORV2.PNG.DDS",
       "size": 1398256,
       "date": 133126629914137229
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/doorv2.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/DOORV2.PNG.DDS.json",
       "size": 119,
       "date": 133126629914137229
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/enbg_main_sign.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/ENBG_MAIN_SIGN.PNG.DDS",
       "size": 5592560,
       "date": 133126629914151986
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/enbg_main_sign.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/ENBG_MAIN_SIGN.PNG.DDS.json",
       "size": 119,
       "date": 133126629914151986
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/extinguisher_sign2.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/EXTINGUISHER_SIGN2.PNG.DDS",
       "size": 121200,
       "date": 133126629914209271
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/extinguisher_sign2.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/EXTINGUISHER_SIGN2.PNG.DDS.json",
       "size": 119,
       "date": 133126629914209271
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/extinguisher_sign3.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/EXTINGUISHER_SIGN3.PNG.DDS",
       "size": 60664,
       "date": 133126629914259359
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/extinguisher_sign3.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/EXTINGUISHER_SIGN3.PNG.DDS.json",
       "size": 102,
       "date": 133126629914259359
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/extinguisher_sign4.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/EXTINGUISHER_SIGN4.PNG.DDS",
       "size": 60664,
       "date": 133126629914201983
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/extinguisher_sign4.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/EXTINGUISHER_SIGN4.PNG.DDS.json",
       "size": 102,
       "date": 133126629914201983
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/garage_door.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GARAGE_DOOR.PNG.DDS",
       "size": 5592560,
       "date": 133126629914142248
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/garage_door.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GARAGE_DOOR.PNG.DDS.json",
       "size": 119,
       "date": 133126629914142248
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/GravelWall01_4K_BaseColor.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GRAVELWALL01_4K_BASECOLOR.PNG.DDS",
       "size": 11184952,
       "date": 133126629913936989
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/GravelWall01_4K_BaseColor.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GRAVELWALL01_4K_BASECOLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629913936989
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/GravelWall01_4K_Comp.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GRAVELWALL01_4K_COMP.PNG.DDS",
       "size": 11184952,
       "date": 133126747608035908
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/GravelWall01_4K_Comp.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GRAVELWALL01_4K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126747608035908
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/GravelWall01_4K_Normal.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GRAVELWALL01_4K_NORMAL.PNG.DDS",
       "size": 22369776,
       "date": 133126629913296919
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/GravelWall01_4K_Normal.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/GRAVELWALL01_4K_NORMAL.PNG.DDS.json",
       "size": 160,
       "date": 133126629913296919
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal010_1K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL010_1K_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126631105222306
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal010_1K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL010_1K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126631105222306
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal010_1K_Comp.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL010_1K_COMP.JPG.DDS",
       "size": 699192,
       "date": 133126631105217325
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal010_1K_Comp.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL010_1K_COMP.JPG.DDS.json",
       "size": 166,
       "date": 133126631105217325
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal010_1K_NormalGL.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL010_1K_NORMALGL.JPG.DDS",
       "size": 1398256,
       "date": 133126631105212301
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal010_1K_NormalGL.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL010_1K_NORMALGL.JPG.DDS.json",
       "size": 160,
       "date": 133126631105212301
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal024_1K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL024_1K_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126629914181989
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal024_1K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL024_1K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629914181989
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal024_1K_COMP.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL024_1K_COMP.PNG.DDS",
       "size": 699192,
       "date": 133126629914171979
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal024_1K_COMP.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL024_1K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126629914171979
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal024_1K_NormalGL.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL024_1K_NORMALGL.PNG.DDS",
       "size": 1398256,
       "date": 133126629914167332
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Metal024_1K_NormalGL.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METAL024_1K_NORMALGL.PNG.DDS.json",
       "size": 160,
       "date": 133126629914167332
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/MetalWalkway011_1K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METALWALKWAY011_1K_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126629913971982
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/MetalWalkway011_1K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METALWALKWAY011_1K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629913971982
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/MetalWalkway011_1K_Comp.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METALWALKWAY011_1K_COMP.PNG.DDS",
       "size": 699192,
       "date": 133126629913966990
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/MetalWalkway011_1K_Comp.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METALWALKWAY011_1K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126629913966990
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/MetalWalkway011_1K_NormalGL.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METALWALKWAY011_1K_NORMALGL.PNG.DDS",
       "size": 1398256,
       "date": 133126629913956990
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/MetalWalkway011_1K_NormalGL.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/METALWALKWAY011_1K_NORMALGL.PNG.DDS.json",
       "size": 160,
       "date": 133126629913956990
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic006_1K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC006_1K_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126629914249356
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic006_1K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC006_1K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629914249356
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic006_1K_Comp.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC006_1K_COMP.PNG.DDS",
       "size": 699192,
       "date": 133126629914254359
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic006_1K_Comp.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC006_1K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126629914254359
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic006_1K_NormalGL.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC006_1K_NORMALGL.PNG.DDS",
       "size": 1398256,
       "date": 133126629914244361
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic006_1K_NormalGL.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC006_1K_NORMALGL.PNG.DDS.json",
       "size": 160,
       "date": 133126629914244361
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic007_1K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC007_1K_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126629914229361
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic007_1K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC007_1K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629914229361
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic007_1K_NormalGL.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC007_1K_NORMALGL.PNG.DDS",
       "size": 1398256,
       "date": 133126629914224356
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic007_1K_NormalGL.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC007_1K_NORMALGL.PNG.DDS.json",
       "size": 160,
       "date": 133126629914224356
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic010_1K_Color.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC010_1K_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126631105207298
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic010_1K_Color.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC010_1K_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126631105207298
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic010_1K_COMP.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC010_1K_COMP.PNG.DDS",
       "size": 699192,
       "date": 133126631105207298
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic010_1K_COMP.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC010_1K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126631105207298
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic010_1K_NormalGL.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC010_1K_NORMALGL.PNG.DDS",
       "size": 1398256,
       "date": 133126631105202296
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Plastic010_1K_NormalGL.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/PLASTIC010_1K_NORMALGL.PNG.DDS.json",
       "size": 160,
       "date": 133126631105202296
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Shingles_Asphalt_001_COLOR.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SHINGLES_ASPHALT_001_COLOR.PNG.DDS",
       "size": 699192,
       "date": 133126629913951988
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Shingles_Asphalt_001_COLOR.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SHINGLES_ASPHALT_001_COLOR.PNG.DDS.json",
       "size": 102,
       "date": 133126629913951988
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Shingles_Asphalt_001_NORM.jpg.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SHINGLES_ASPHALT_001_NORM.JPG.DDS",
       "size": 1398256,
       "date": 133126629913942011
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/Shingles_Asphalt_001_NORM.jpg.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SHINGLES_ASPHALT_001_NORM.JPG.DDS.json",
       "size": 160,
       "date": 133126629913942011
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/sign_door.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SIGN_DOOR.PNG.DDS",
       "size": 1398256,
       "date": 133126629914146993
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/sign_door.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SIGN_DOOR.PNG.DDS.json",
       "size": 119,
       "date": 133126629914146993
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/super_rough_1k_comp.png.DDS",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SUPER_ROUGH_1K_COMP.PNG.DDS",
       "size": 699192,
       "date": 133126626784957080
     },
     {
-      "path": "Scenery/airport-enbg-gronneviksoren/enbg-models/texture/super_rough_1k_comp.png.DDS.json",
+      "path": "scenery/airport-enbg-gronneviksoren/enbg-models/texture/SUPER_ROUGH_1K_COMP.PNG.DDS.json",
       "size": 166,
       "date": 133126626784957080
     },
@@ -544,6 +544,61 @@
       "path": "scenery/blt950/ENBG.bgl",
       "size": 9743,
       "date": 133127275212959092
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.bin",
+      "size": 103744,
+      "date": 133140345841094978
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.gltf",
+      "size": 27029,
+      "date": 133140345841104993
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.xml",
+      "size": 1573,
+      "date": 133140332586835467
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/model.CFG",
+      "size": 36,
+      "date": 133140330848280387
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/sim.cfg",
+      "size": 114,
+      "date": 133140330107460453
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 133140305796144399
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 133140305796144399
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133140305796134356
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133140305796134356
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 133140305796129115
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 133140305796129115
     }
   ]
 }

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{a6d12156-670d-4cb6-bbfe-77229405d4f4}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="enxx_windsock.gltf"/>
+	</LODS>
+</ModelInfo>

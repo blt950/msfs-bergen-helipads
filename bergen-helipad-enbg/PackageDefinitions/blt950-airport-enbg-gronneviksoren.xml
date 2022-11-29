@@ -43,6 +43,14 @@
 			<AssetDir>PackageSources\\sceneries\</AssetDir>
 			<OutputDir>scenery\blt950\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="enxx_windsock">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Landmarks\enxx_windsock\</AssetDir>
+			<OutputDir>SimObjects\Landmarks\enxx_windsock\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
