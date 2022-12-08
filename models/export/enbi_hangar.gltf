@@ -1,0 +1,2466 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v1.8.19 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "ASOBO_tags",
+        "ASOBO_material_shadow_options",
+        "ASOBO_material_blend_gbuffer"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "msfs_exporter_properties" : {},
+                "msfs_multi_exporter_lod_groups" : [
+                    {
+                        "group_name" : "enbi_hangar",
+                        "lods" : [
+                            {
+                                "collection" : {
+                                    "name" : "enbi_hangar",
+                                    "type" : "Collection"
+                                },
+                                "file_name" : "enbi_hangar",
+                                "enabled" : 1
+                            }
+                        ],
+                        "folder_name" : "//export\\"
+                    }
+                ],
+                "multi_exporter_grouped_by_collections" : 1,
+                "msfs_multi_exporter_current_tab" : 0,
+                "msfs_multi_exporter_settings" : {
+                    "export_texture_dir" : "texture",
+                    "export_extras" : 1,
+                    "export_apply" : 1
+                }
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cube",
+            "translation" : [
+                34.39678192138672,
+                4.559191703796387,
+                21.73838996887207
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Cube.001",
+            "rotation" : [
+                0,
+                0.041875649243593216,
+                0,
+                0.9991228580474854
+            ],
+            "scale" : [
+                1,
+                0.4999997615814209,
+                1
+            ],
+            "translation" : [
+                1.055255651473999,
+                0.07229191064834595,
+                12.005090713500977
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Cube.003",
+            "translation" : [
+                -1.5056912899017334,
+                0.07246488332748413,
+                17.363231658935547
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "Cube.004",
+            "translation" : [
+                21.25391387939453,
+                2.561321258544922,
+                21.734132766723633
+            ]
+        },
+        {
+            "mesh" : 4,
+            "name" : "Cube.005",
+            "rotation" : [
+                0,
+                1,
+                0,
+                -1.6292068494294654e-07
+            ],
+            "translation" : [
+                48.546539306640625,
+                2.591451644897461,
+                25.640718460083008
+            ]
+        },
+        {
+            "mesh" : 5,
+            "name" : "Cube.006",
+            "rotation" : [
+                0,
+                0.4352310597896576,
+                0,
+                0.9003188014030457
+            ],
+            "scale" : [
+                5.700000286102295,
+                0.6200000047683716,
+                3.799999237060547
+            ],
+            "translation" : [
+                -20.579986572265625,
+                -0.16342201828956604,
+                -5.644837379455566
+            ]
+        },
+        {
+            "mesh" : 6,
+            "name" : "Cube.007",
+            "rotation" : [
+                -0.005578577984124422,
+                0.39951029419898987,
+                -0.012799296528100967,
+                0.916622519493103
+            ],
+            "scale" : [
+                3.4000003337860107,
+                0.1199999749660492,
+                0.7499999403953552
+            ],
+            "translation" : [
+                -25.096179962158203,
+                0.6458879709243774,
+                1.923211932182312
+            ]
+        },
+        {
+            "mesh" : 7,
+            "name" : "Cube.008",
+            "rotation" : [
+                -0.01128995418548584,
+                0.862439751625061,
+                -0.006623777560889721,
+                0.5059904456138611
+            ],
+            "scale" : [
+                3.299999952316284,
+                0.0700000524520874,
+                0.30000001192092896
+            ],
+            "translation" : [
+                9.517219543457031,
+                0.5924527645111084,
+                7.886399745941162
+            ]
+        },
+        {
+            "mesh" : 8,
+            "name" : "Cube.009",
+            "rotation" : [
+                0,
+                0.03751577064394951,
+                0,
+                0.9992961287498474
+            ],
+            "scale" : [
+                10.54999828338623,
+                0.6200000047683716,
+                4.5
+            ],
+            "translation" : [
+                10.66458511352539,
+                -0.18425200879573822,
+                3.577630043029785
+            ]
+        },
+        {
+            "mesh" : 9,
+            "name" : "Plane.002",
+            "rotation" : [
+                0,
+                0.04124922305345535,
+                0,
+                0.9991489052772522
+            ],
+            "scale" : [
+                1.267086148262024,
+                2.5551345348358154,
+                1.267086148262024
+            ],
+            "translation" : [
+                -2.8729629516601562,
+                0.6064801216125488,
+                26.235685348510742
+            ]
+        },
+        {
+            "mesh" : 10,
+            "name" : "Plane.001",
+            "scale" : [
+                7.166035175323486,
+                4.816874027252197,
+                7.166035175323486
+            ],
+            "translation" : [
+                -3.167403221130371,
+                0.6064801216125488,
+                21.377246856689453
+            ]
+        },
+        {
+            "mesh" : 11,
+            "name" : "Plane",
+            "rotation" : [
+                0,
+                0.13294005393981934,
+                0,
+                0.9911240935325623
+            ],
+            "scale" : [
+                5.041358947753906,
+                5.041358947753906,
+                5.041358947753906
+            ],
+            "translation" : [
+                -3.167403221130371,
+                0.6064801216125488,
+                21.377246856689453
+            ]
+        },
+        {
+            "mesh" : 12,
+            "name" : "Plane.004",
+            "scale" : [
+                3.1657652854919434,
+                2.1279678344726562,
+                3.1657652854919434
+            ],
+            "translation" : [
+                -3.167403221130371,
+                0.6064801216125488,
+                21.377246856689453
+            ]
+        },
+        {
+            "mesh" : 13,
+            "name" : "Plane.003",
+            "rotation" : [
+                0,
+                0.5868707895278931,
+                0,
+                0.8096805810928345
+            ],
+            "scale" : [
+                1.267086148262024,
+                2.5551345348358154,
+                1.267086148262024
+            ],
+            "translation" : [
+                -7.638339519500732,
+                0.6064801216125488,
+                19.793729782104492
+            ]
+        },
+        {
+            "mesh" : 14,
+            "name" : "Cube.010",
+            "rotation" : [
+                0,
+                0.3617101013660431,
+                0,
+                0.9322906136512756
+            ],
+            "scale" : [
+                1,
+                0.012500000186264515,
+                1
+            ],
+            "translation" : [
+                -17.54475212097168,
+                0.5660359263420105,
+                16.63045883178711
+            ]
+        },
+        {
+            "mesh" : 15,
+            "name" : "Cone",
+            "rotation" : [
+                0,
+                0.3826834559440613,
+                0,
+                0.9238795042037964
+            ],
+            "scale" : [
+                2.500000238418579,
+                0.5,
+                2.500000238418579
+            ],
+            "translation" : [
+                34.40782928466797,
+                9.831561088562012,
+                21.716928482055664
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "extensions" : {
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "CorrugatedMetalPanel02_1K_BaseColor.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "CorrugatedMetalPanel02_1K_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "CorrugatedMetalPanel02_1K_Normal.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_normal_scale" : 1.0,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
+            },
+            "name" : "Building",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "occlusionTexture" : {
+                "index" : 1
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 2
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 1
+                }
+            }
+        },
+        {
+            "extensions" : {
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                },
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "brown_planks_05_diff_1k.jpg",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "brown_planks_05_diff_1k_comp.jpg",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "brown_planks_05_nor_gl_1k.exr",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.5382274985313416,
+                    0.5382274985313416,
+                    0.5382274985313416,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_no_cast_shadow" : 1,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
+            },
+            "name" : "Light Planks",
+            "normalTexture" : {
+                "index" : 3
+            },
+            "occlusionTexture" : {
+                "index" : 4
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.5382274985313416,
+                    0.5382274985313416,
+                    0.5382274985313416,
+                    1
+                ],
+                "baseColorTexture" : {
+                    "index" : 5
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 4
+                }
+            }
+        },
+        {
+            "extensions" : {
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Concrete032_2K_Color.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Concrete032_2K_Comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Concrete032_2K_NormalGL.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
+            },
+            "name" : "Concrete",
+            "normalTexture" : {
+                "index" : 6
+            },
+            "occlusionTexture" : {
+                "index" : 7
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 8
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 7
+                }
+            }
+        },
+        {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "garage_door.png",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {},
+                "msfs_normal_texture" : {},
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 1.0,
+                "msfs_roughness_factor" : 1.0
+            },
+            "name" : "Garagedoor",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 9
+                }
+            }
+        },
+        {
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "Shingles_Asphalt_001_COLOR.jpg",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "Shingles_Asphalt_001_COMP.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "Shingles_Asphalt_001_NORM.jpg",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0
+            },
+            "name" : "Roof",
+            "normalTexture" : {
+                "index" : 10
+            },
+            "occlusionTexture" : {
+                "index" : 11
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 12
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 11
+                }
+            }
+        },
+        {
+            "extensions" : {
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "brown_planks_05_diff_1k.jpg",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "brown_planks_05_diff_1k_comp.jpg",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "brown_planks_05_nor_gl_1k.exr",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.18446898460388184,
+                    0.1597035676240921,
+                    0.07055855542421341,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
+            },
+            "name" : "Plan ks",
+            "normalTexture" : {
+                "index" : 13
+            },
+            "occlusionTexture" : {
+                "index" : 14
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.18446898460388184,
+                    0.1597035676240921,
+                    0.07055855542421341,
+                    1
+                ],
+                "baseColorTexture" : {
+                    "index" : 15
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 14
+                }
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "extensions" : {
+                "ASOBO_material_blend_gbuffer" : {
+                    "enabled" : true,
+                    "baseColorBlendFactor" : 1,
+                    "metallicBlendFactor" : 0,
+                    "roughnessBlendFactor" : 1,
+                    "normalBlendFactor" : 1,
+                    "emissiveBlendFactor" : 1,
+                    "occlusionBlendFactor" : 1
+                },
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 2,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "helipad_arrow.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.17857146263122559
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_base_color_blend_factor" : 1.0,
+                "msfs_metallic_blend_factor" : 0.0,
+                "msfs_draw_order_offset" : 0,
+                "msfs_no_cast_shadow" : 1
+            },
+            "name" : "H.002",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    0.17857146263122559
+                ],
+                "baseColorTexture" : {
+                    "index" : 16
+                },
+                "metallicFactor" : 0
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "extensions" : {
+                "ASOBO_material_blend_gbuffer" : {
+                    "enabled" : true,
+                    "baseColorBlendFactor" : 1,
+                    "metallicBlendFactor" : 0,
+                    "roughnessBlendFactor" : 1,
+                    "normalBlendFactor" : 1,
+                    "emissiveBlendFactor" : 1,
+                    "occlusionBlendFactor" : 1
+                },
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 2,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "no_helipad_circle.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1357143074274063
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_base_color_blend_factor" : 1.0,
+                "msfs_metallic_blend_factor" : 0.0,
+                "msfs_draw_order_offset" : 0,
+                "msfs_no_cast_shadow" : 1
+            },
+            "name" : "H.001",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    0.1357143074274063
+                ],
+                "baseColorTexture" : {
+                    "index" : 17
+                },
+                "metallicFactor" : 0
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "extensions" : {
+                "ASOBO_material_blend_gbuffer" : {
+                    "enabled" : true,
+                    "baseColorBlendFactor" : 1,
+                    "metallicBlendFactor" : 0,
+                    "roughnessBlendFactor" : 1,
+                    "normalBlendFactor" : 1,
+                    "emissiveBlendFactor" : 1,
+                    "occlusionBlendFactor" : 1
+                },
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 2,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "no_helipad.png",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1714285910129547
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_base_color_blend_factor" : 1.0,
+                "msfs_metallic_blend_factor" : 0.0,
+                "msfs_draw_order_offset" : 0,
+                "msfs_no_cast_shadow" : 1
+            },
+            "name" : "H",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    0.1714285910129547
+                ],
+                "baseColorTexture" : {
+                    "index" : 18
+                },
+                "metallicFactor" : 0
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "extensions" : {
+                "ASOBO_material_blend_gbuffer" : {
+                    "enabled" : true,
+                    "baseColorBlendFactor" : 1,
+                    "metallicBlendFactor" : 0,
+                    "roughnessBlendFactor" : 1,
+                    "normalBlendFactor" : 1,
+                    "emissiveBlendFactor" : 1,
+                    "occlusionBlendFactor" : 1
+                },
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 2,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "no_helipad_circle.png.001",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.13571429252624512
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_base_color_blend_factor" : 1.0,
+                "msfs_metallic_blend_factor" : 0.0,
+                "msfs_draw_order_offset" : 0,
+                "msfs_no_cast_shadow" : 1
+            },
+            "name" : "H.004",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    0.13571429252624512
+                ],
+                "baseColorTexture" : {
+                    "index" : 19
+                },
+                "metallicFactor" : 0
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "extensions" : {
+                "ASOBO_material_blend_gbuffer" : {
+                    "enabled" : true,
+                    "baseColorBlendFactor" : 1,
+                    "metallicBlendFactor" : 0,
+                    "roughnessBlendFactor" : 1,
+                    "normalBlendFactor" : 1,
+                    "emissiveBlendFactor" : 1,
+                    "occlusionBlendFactor" : 1
+                },
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 2,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "helipad_arrow.png.002",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.18571430444717407
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_alpha_mode" : 2,
+                "msfs_emissive_scale" : 1.0,
+                "msfs_base_color_blend_factor" : 1.0,
+                "msfs_metallic_blend_factor" : 0.0,
+                "msfs_draw_order_offset" : 0,
+                "msfs_no_cast_shadow" : 1
+            },
+            "name" : "H.005",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    0.18571430444717407
+                ],
+                "baseColorTexture" : {
+                    "index" : 20
+                },
+                "metallicFactor" : 0
+            }
+        },
+        {
+            "extensions" : {
+                "ASOBO_material_shadow_options" : {
+                    "noCastShadow" : true
+                },
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
+            "extras" : {
+                "msfs_material_type" : 1,
+                "msfs_blend_mask_texture" : {},
+                "msfs_base_color_texture" : {
+                    "name" : "asphalt_01_diff_2k.jpg",
+                    "type" : "Image"
+                },
+                "msfs_occlusion_metallic_roughness_texture" : {
+                    "name" : "super_rough_1k_comp.png",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "asphalt_01_nor_gl_2k.jpg",
+                    "type" : "Image"
+                },
+                "msfs_emissive_texture" : {},
+                "msfs_detail_color_texture" : {},
+                "msfs_detail_occlusion_metallic_roughness_texture" : {},
+                "msfs_detail_normal_texture" : {},
+                "msfs_base_color_factor" : [
+                    0.16264177858829498,
+                    0.16264177858829498,
+                    0.16264177858829498,
+                    1.0
+                ],
+                "msfs_emissive_factor" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "msfs_metallic_factor" : 0.0,
+                "msfs_roughness_factor" : 1.0,
+                "msfs_no_cast_shadow" : 1,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
+            },
+            "name" : "Asphalt",
+            "normalTexture" : {
+                "index" : 21
+            },
+            "occlusionTexture" : {
+                "index" : 22
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.16264177858829498,
+                    0.16264177858829498,
+                    0.16264177858829498,
+                    1
+                ],
+                "baseColorTexture" : {
+                    "index" : 23
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 22
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Cube.006",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Cube.007",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "NORMAL" : 17,
+                        "TEXCOORD_0" : 18
+                    },
+                    "indices" : 19,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 20,
+                        "NORMAL" : 21,
+                        "TEXCOORD_0" : 22
+                    },
+                    "indices" : 23,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube.008",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 24,
+                        "NORMAL" : 25,
+                        "TEXCOORD_0" : 26
+                    },
+                    "indices" : 27,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 28,
+                        "NORMAL" : 29,
+                        "TEXCOORD_0" : 30
+                    },
+                    "indices" : 31,
+                    "material" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Cube",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 32,
+                        "NORMAL" : 33,
+                        "TEXCOORD_0" : 34
+                    },
+                    "indices" : 35,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Cube.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 36,
+                        "NORMAL" : 37,
+                        "TEXCOORD_0" : 38
+                    },
+                    "indices" : 35,
+                    "material" : 5
+                }
+            ]
+        },
+        {
+            "name" : "Cube.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 39,
+                        "NORMAL" : 40,
+                        "TEXCOORD_0" : 41
+                    },
+                    "indices" : 35,
+                    "material" : 5
+                }
+            ]
+        },
+        {
+            "name" : "Cube.009",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 42,
+                        "NORMAL" : 43,
+                        "TEXCOORD_0" : 44
+                    },
+                    "indices" : 35,
+                    "material" : 5
+                }
+            ]
+        },
+        {
+            "name" : "Plane.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 45,
+                        "NORMAL" : 46,
+                        "TEXCOORD_0" : 47
+                    },
+                    "indices" : 23,
+                    "material" : 6
+                }
+            ]
+        },
+        {
+            "name" : "Plane.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 48,
+                        "NORMAL" : 49,
+                        "TEXCOORD_0" : 50
+                    },
+                    "indices" : 23,
+                    "material" : 7
+                }
+            ]
+        },
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 51,
+                        "NORMAL" : 52,
+                        "TEXCOORD_0" : 53
+                    },
+                    "indices" : 23,
+                    "material" : 8
+                }
+            ]
+        },
+        {
+            "name" : "Plane.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 54,
+                        "NORMAL" : 55,
+                        "TEXCOORD_0" : 56
+                    },
+                    "indices" : 23,
+                    "material" : 9
+                }
+            ]
+        },
+        {
+            "name" : "Plane.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 57,
+                        "NORMAL" : 58,
+                        "TEXCOORD_0" : 59
+                    },
+                    "indices" : 23,
+                    "material" : 10
+                }
+            ]
+        },
+        {
+            "name" : "Cube.010",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 60,
+                        "NORMAL" : 61,
+                        "TEXCOORD_0" : 62
+                    },
+                    "indices" : 63,
+                    "material" : 11
+                }
+            ]
+        },
+        {
+            "name" : "Cone",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 64,
+                        "NORMAL" : 65,
+                        "TEXCOORD_0" : 66
+                    },
+                    "indices" : 67,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        },
+        {
+            "sampler" : 0,
+            "source" : 5
+        },
+        {
+            "sampler" : 0,
+            "source" : 6
+        },
+        {
+            "sampler" : 0,
+            "source" : 7
+        },
+        {
+            "sampler" : 0,
+            "source" : 8
+        },
+        {
+            "sampler" : 0,
+            "source" : 9
+        },
+        {
+            "sampler" : 0,
+            "source" : 10
+        },
+        {
+            "sampler" : 0,
+            "source" : 11
+        },
+        {
+            "sampler" : 0,
+            "source" : 12
+        },
+        {
+            "sampler" : 0,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        },
+        {
+            "sampler" : 0,
+            "source" : 5
+        },
+        {
+            "sampler" : 0,
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
+            "source" : 14
+        },
+        {
+            "sampler" : 0,
+            "source" : 15
+        },
+        {
+            "sampler" : 0,
+            "source" : 14
+        },
+        {
+            "sampler" : 0,
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
+            "source" : 16
+        },
+        {
+            "sampler" : 0,
+            "source" : 17
+        },
+        {
+            "sampler" : 0,
+            "source" : 18
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "CorrugatedMetalPanel02_1K_Normal",
+            "uri" : "CorrugatedMetalPanel02_1K_Normal.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "CorrugatedMetalPanel02_1K_COMP",
+            "uri" : "CorrugatedMetalPanel02_1K_COMP.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "CorrugatedMetalPanel02_1K_BaseColor",
+            "uri" : "CorrugatedMetalPanel02_1K_BaseColor.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "brown_planks_05_nor_gl_1k",
+            "uri" : "brown_planks_05_nor_gl_1k.png"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "brown_planks_05_diff_1k_comp",
+            "uri" : "brown_planks_05_diff_1k_comp.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "brown_planks_05_diff_1k",
+            "uri" : "brown_planks_05_diff_1k.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Concrete032_2K_NormalGL",
+            "uri" : "Concrete032_2K_NormalGL.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Concrete032_2K_Comp",
+            "uri" : "Concrete032_2K_Comp.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Concrete032_2K_Color",
+            "uri" : "Concrete032_2K_Color.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "garage_door",
+            "uri" : "garage_door.png"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Shingles_Asphalt_001_NORM",
+            "uri" : "Shingles_Asphalt_001_NORM.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Shingles_Asphalt_001_COMP",
+            "uri" : "Shingles_Asphalt_001_COMP.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Shingles_Asphalt_001_COLOR",
+            "uri" : "Shingles_Asphalt_001_COLOR.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "helipad_arrow",
+            "uri" : "helipad_arrow.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "no_helipad_circle",
+            "uri" : "no_helipad_circle.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "no_helipad",
+            "uri" : "no_helipad.png"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "asphalt_01_nor_gl_2k",
+            "uri" : "asphalt_01_nor_gl_2k.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "super_rough_1k_comp",
+            "uri" : "super_rough_1k_comp.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "asphalt_01_diff_2k",
+            "uri" : "asphalt_01_diff_2k.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 200,
+            "max" : [
+                14,
+                5.286849498748779,
+                13
+            ],
+            "min" : [
+                -14,
+                -4.000000953674316,
+                -13
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 200,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 200,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 306,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 16,
+            "max" : [
+                47.46080780029297,
+                1,
+                3.786390781402588
+            ],
+            "min" : [
+                -21.893999099731445,
+                -1,
+                -1.6347712278366089
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 16,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 16,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 24,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 104,
+            "max" : [
+                47.46080780029297,
+                1.1294692754745483,
+                3.786390781402588
+            ],
+            "min" : [
+                -70.9253921508789,
+                -1.3508397340774536,
+                -62.12542724609375
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 104,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 104,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 156,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 68,
+            "max" : [
+                9.028209686279297,
+                0.499999463558197,
+                14.008096694946289
+            ],
+            "min" : [
+                -19.122100830078125,
+                -0.5000000596046448,
+                -4.077154159545898
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 68,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 68,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5123,
+            "count" : 102,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 36,
+            "max" : [
+                2,
+                1.8116353750228882,
+                5
+            ],
+            "min" : [
+                -2,
+                -1.9999996423721313,
+                -5
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 36,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 36,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5123,
+            "count" : 54,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 20,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                -2,
+                0.6935386061668396,
+                4.7342634201049805
+            ],
+            "min" : [
+                -2,
+                -1.9953151941299438,
+                -4.7342634201049805
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 21,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 22,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 23,
+            "componentType" : 5123,
+            "count" : 6,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 24,
+            "componentType" : 5126,
+            "count" : 20,
+            "max" : [
+                2.0000054836273193,
+                1,
+                1.9999995231628418
+            ],
+            "min" : [
+                -4.029594898223877,
+                -2,
+                -2.000000238418579
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 25,
+            "componentType" : 5126,
+            "count" : 20,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 26,
+            "componentType" : 5126,
+            "count" : 20,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 27,
+            "componentType" : 5123,
+            "count" : 30,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 28,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                2.0000054836273193,
+                1,
+                1.9999995231628418
+            ],
+            "min" : [
+                -4.029594898223877,
+                -1.1920928955078125e-07,
+                -2.000000238418579
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 29,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 30,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 31,
+            "componentType" : 5123,
+            "count" : 6,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 32,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                1,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -1,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 33,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 34,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 35,
+            "componentType" : 5123,
+            "count" : 36,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 36,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                1,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -1,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 37,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 38,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 39,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                1,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -1,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 40,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 41,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 42,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                1,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -1,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 43,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 44,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 45,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1,
+                0,
+                1
+            ],
+            "min" : [
+                -1,
+                0,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 46,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 47,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 48,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1,
+                0,
+                1
+            ],
+            "min" : [
+                -1,
+                0,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 49,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 50,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 51,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1,
+                0,
+                1
+            ],
+            "min" : [
+                -1,
+                0,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 52,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 53,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 54,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1,
+                0,
+                1
+            ],
+            "min" : [
+                -1,
+                0,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 55,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 56,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 57,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1,
+                0,
+                1
+            ],
+            "min" : [
+                -1,
+                0,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 58,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 59,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 60,
+            "componentType" : 5126,
+            "count" : 94,
+            "max" : [
+                19.522424697875977,
+                1.54366135597229,
+                25.7689266204834
+            ],
+            "min" : [
+                -1.3172054290771484,
+                -4.060517311096191,
+                -2.8432281017303467
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 61,
+            "componentType" : 5126,
+            "count" : 94,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 62,
+            "componentType" : 5126,
+            "count" : 94,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 63,
+            "componentType" : 5123,
+            "count" : 156,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 64,
+            "componentType" : 5126,
+            "count" : 16,
+            "max" : [
+                1,
+                1.511399507522583,
+                1
+            ],
+            "min" : [
+                -1,
+                -1,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 65,
+            "componentType" : 5126,
+            "count" : 16,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 66,
+            "componentType" : 5126,
+            "count" : 16,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 67,
+            "componentType" : 5123,
+            "count" : 18,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 2400,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2400,
+            "byteOffset" : 2400
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1600,
+            "byteOffset" : 4800
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 612,
+            "byteOffset" : 6400
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 7012
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 7204
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 128,
+            "byteOffset" : 7396
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 7524
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1248,
+            "byteOffset" : 7572
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1248,
+            "byteOffset" : 8820
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 832,
+            "byteOffset" : 10068
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 312,
+            "byteOffset" : 10900
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 816,
+            "byteOffset" : 11212
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 816,
+            "byteOffset" : 12028
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 544,
+            "byteOffset" : 12844
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 204,
+            "byteOffset" : 13388
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 432,
+            "byteOffset" : 13592
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 432,
+            "byteOffset" : 14024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 14456
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 14744
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 14852
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 14900
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 14948
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 12,
+            "byteOffset" : 14980
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 240,
+            "byteOffset" : 14992
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 240,
+            "byteOffset" : 15232
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 160,
+            "byteOffset" : 15472
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 60,
+            "byteOffset" : 15632
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 15692
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 15740
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 15788
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 12,
+            "byteOffset" : 15820
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 15832
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 16120
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 16408
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 16600
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 16672
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 16960
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 17248
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 17440
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 17728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 18016
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 18208
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 18496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 18784
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 18976
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 19072
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19104
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19152
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 19200
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19232
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19280
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 19328
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19360
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19408
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 19456
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19488
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 19536
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32,
+            "byteOffset" : 19584
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1128,
+            "byteOffset" : 19616
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1128,
+            "byteOffset" : 20744
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 752,
+            "byteOffset" : 21872
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 312,
+            "byteOffset" : 22624
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 22936
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 23128
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 128,
+            "byteOffset" : 23320
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 23448
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 23484,
+            "uri" : "enbi_hangar.bin"
+        }
+    ]
+}

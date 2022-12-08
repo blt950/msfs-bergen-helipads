@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{a6d12156-670d-4cb6-bbfe-77229405d4f4}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="enxx_windsock.gltf"/>
+	</LODS>
+
+	<Animation name="knots_00" guid="76b9baf1-0161-4e81-8d77-7ad7a6e2f307" type="Standard"/>
+	
+	<Animation name="knots_05" guid="d91f7c4f-e738-4986-a483-4b45ec1e87d5" type="Standard"/>
+	
+	<Animation name="knots_10" guid="ffd1e596-660b-4c68-95e8-b1f61b181cf5" type="Standard"/>
+	
+	<Animation name="knots_15" guid="b8341ea2-1139-4d6e-96e3-8d6e5fc3edd2" type="Standard"/>
+	
+	<Animation name="knots_20" guid="057f302d-e061-4df8-b6b2-d2dcb23bcb04" type="Standard"/>
+	
+	
+	<AnimGraph>
+	 
+		<DefaultState name="Armature"/>
+		
+		<BlendTreeState name="Armature">
+		  <Animations>
+			<Animation guid="76b9baf1-0161-4e81-8d77-7ad7a6e2f307" loop ="True" speed="1" threshold="0"/>
+			<Animation guid="d91f7c4f-e738-4986-a483-4b45ec1e87d5" loop ="True" speed="1" threshold="5"/>
+			<Animation guid="ffd1e596-660b-4c68-95e8-b1f61b181cf5" loop ="True" speed="1" threshold="10"/>		
+			<Animation guid="b8341ea2-1139-4d6e-96e3-8d6e5fc3edd2" loop ="True" speed="1" threshold="15"/>		
+			<Animation guid="057f302d-e061-4df8-b6b2-d2dcb23bcb04" loop ="True" speed="1" threshold="20"/>		
+		  </Animations>
+		  <Value>(A:AMBIENT WIND VELOCITY, KNOTS)</Value>
+		</BlendTreeState>
+		
+		
+	 </AnimGraph>
+		
+	<Behaviors>
+		<Include ModelBehaviorFile="Asobo\Misc\SimObjects.xml"/>
+		
+		<Component ID="WindSock">
+			<UseTemplate Name="ASOBO_WindDirection_Template">
+			</UseTemplate>
+		</Component>
+
+	</Behaviors>
+</ModelInfo>

@@ -3,17 +3,17 @@
     {
       "path": "ContentInfo/blt950-airport-enbx-bergen-haukeland-hospital-helipad/ContentHistory.json",
       "size": 177,
-      "date": 133142324225931264
+      "date": 133150139868449231
     },
     {
       "path": "ContentInfo/blt950-airport-enbx-bergen-haukeland-hospital-helipad/Thumbnail.jpg",
-      "size": 103854,
-      "date": 133042728773997096
+      "size": 86325,
+      "date": 133150138549259606
     },
     {
       "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/enbx-models.BGL",
-      "size": 5263964,
-      "date": 133127252236169251
+      "size": 5263968,
+      "date": 133150143011862876
     },
     {
       "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/enbx-models/texture/DIAMONDPLATE001_2K_COLOR.PNG.DDS",
@@ -197,8 +197,8 @@
     },
     {
       "path": "Scenery/airport-enbx-bergen-haukeland-hospital-helipad/scenery/ENBX.bgl",
-      "size": 3430,
-      "date": 133142324225876019
+      "size": 3843,
+      "date": 133150139868388778
     },
     {
       "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.bin",

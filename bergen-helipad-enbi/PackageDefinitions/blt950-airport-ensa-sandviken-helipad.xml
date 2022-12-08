@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.4.0">
+<AssetPackage Version="1.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Sandviken Helipad</Title>
@@ -16,24 +16,32 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-ensa-sandviken-helipad\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-ensa-sandviken-helipad\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-ensa-sandviken-helipad\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="enbi-scenery">
+		<AssetGroup Name="ensa-models">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-ensa-sandviken-helipad\ensa-models\</AssetDir>
+			<OutputDir>Scenery\airport-ensa-sandviken-helipad\ensa-models\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ensa-scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\\sceneries\</AssetDir>
-			<OutputDir>scenery\blt950\</OutputDir>
+			<AssetDir>PackageSources\Scenery\airport-ensa-sandviken-helipad\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-ensa-sandviken-helipad\scenery\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="ensa-materials">
-			<Type>MaterialLib</Type>
+		<AssetGroup Name="enxx_windsock">
+			<Type>SimObject</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\materials\</AssetDir>
-			<OutputDir>MaterialLibs\ensa-materials\</OutputDir>
+			<AssetDir>PackageSources\SimObjects\Landmarks\enxx_windsock\</AssetDir>
+			<OutputDir>SimObjects\Landmarks\enxx_windsock\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

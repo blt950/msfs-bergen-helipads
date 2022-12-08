@@ -3,37 +3,267 @@
     {
       "path": "ContentInfo/blt950-airport-ensa-sandviken-helipad/ContentHistory.json",
       "size": 161,
-      "date": 133127261185144867
+      "date": 133150113882638198
     },
     {
       "path": "ContentInfo/blt950-airport-ensa-sandviken-helipad/Thumbnail.jpg",
-      "size": 87086,
-      "date": 133042728774016887
+      "size": 68247,
+      "date": 133150100857290827
     },
     {
-      "path": "MaterialLibs/ensa-materials/Library.xml",
-      "size": 1142,
-      "date": 133085953962025425
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/ensa-models.BGL",
+      "size": 58128,
+      "date": 133150113882408336
     },
     {
-      "path": "MaterialLibs/ensa-materials/Textures/white_circle_helipad.png.DDS",
-      "size": 349700,
-      "date": 133085953963140388
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/ASPHALT_01_DIFF_2K.PNG.DDS",
+      "size": 2796344,
+      "date": 133150066122134755
     },
     {
-      "path": "MaterialLibs/ensa-materials/Textures/white_circle_helipad.png.DDS.FLAGS",
-      "size": 39,
-      "date": 133042767491506187
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/ASPHALT_01_DIFF_2K.PNG.DDS.json",
+      "size": 102,
+      "date": 133150066122134755
     },
     {
-      "path": "MaterialLibs/ensa-materials/Textures/white_circle_helipad.png.DDS.json",
-      "size": 198,
-      "date": 133085953963135371
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/ASPHALT_01_NOR_GL_2K.JPG.DDS",
+      "size": 5592560,
+      "date": 133150066122109751
     },
     {
-      "path": "scenery/blt950/ENSA.bgl",
-      "size": 3332,
-      "date": 133127261185099866
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/ASPHALT_01_NOR_GL_2K.JPG.DDS.json",
+      "size": 160,
+      "date": 133150066122109751
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/BROWN_PLANKS_05_DIFF_1K.PNG.DDS",
+      "size": 699192,
+      "date": 133150066121899765
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/BROWN_PLANKS_05_DIFF_1K.PNG.DDS.json",
+      "size": 102,
+      "date": 133150066121899765
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/BROWN_PLANKS_05_DIFF_1K_COMP.JPG.DDS",
+      "size": 699192,
+      "date": 133150066121894766
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/BROWN_PLANKS_05_DIFF_1K_COMP.JPG.DDS.json",
+      "size": 166,
+      "date": 133150066121894766
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/BROWN_PLANKS_05_NOR_GL_1K.PNG.DDS",
+      "size": 1398256,
+      "date": 133150066121889774
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/BROWN_PLANKS_05_NOR_GL_1K.PNG.DDS.json",
+      "size": 160,
+      "date": 133150066121889774
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CONCRETE032_2K_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 133150066122064750
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CONCRETE032_2K_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 133150066122064750
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CONCRETE032_2K_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133150066122044760
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CONCRETE032_2K_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133150066122044760
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CONCRETE032_2K_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 133150066122024754
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CONCRETE032_2K_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 133150066122024754
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CORRUGATEDMETALPANEL02_1K_BASECOLOR.PNG.DDS",
+      "size": 1398256,
+      "date": 133150066121884769
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CORRUGATEDMETALPANEL02_1K_BASECOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 133150066121884769
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CORRUGATEDMETALPANEL02_1K_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133150066121879768
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CORRUGATEDMETALPANEL02_1K_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133150066121879768
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CORRUGATEDMETALPANEL02_1K_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 133150066121869777
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/CORRUGATEDMETALPANEL02_1K_NORMAL.PNG.DDS.json",
+      "size": 177,
+      "date": 133150066121869777
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/GARAGE_DOOR.PNG.DDS",
+      "size": 5592560,
+      "date": 133150066122069757
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/GARAGE_DOOR.PNG.DDS.json",
+      "size": 119,
+      "date": 133150066122069757
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/HELIPAD_ARROW.PNG.DDS",
+      "size": 349680,
+      "date": 133150066122089744
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/HELIPAD_ARROW.PNG.DDS.json",
+      "size": 119,
+      "date": 133150066122089744
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/NO_HELIPAD.PNG.DDS",
+      "size": 349680,
+      "date": 133150066122099750
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/NO_HELIPAD.PNG.DDS.json",
+      "size": 119,
+      "date": 133150066122099750
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/NO_HELIPAD_CIRCLE.PNG.DDS",
+      "size": 5592560,
+      "date": 133150066122094753
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/NO_HELIPAD_CIRCLE.PNG.DDS.json",
+      "size": 119,
+      "date": 133150066122094753
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SHINGLES_ASPHALT_001_COLOR.PNG.DDS",
+      "size": 699192,
+      "date": 133150066122089744
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SHINGLES_ASPHALT_001_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 133150066122089744
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SHINGLES_ASPHALT_001_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133150066122084752
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SHINGLES_ASPHALT_001_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133150066122084752
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SHINGLES_ASPHALT_001_NORM.JPG.DDS",
+      "size": 1398256,
+      "date": 133150066122074762
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SHINGLES_ASPHALT_001_NORM.JPG.DDS.json",
+      "size": 160,
+      "date": 133150066122074762
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SUPER_ROUGH_1K_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133150066122114739
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/ensa-models/texture/SUPER_ROUGH_1K_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133150066122114739
+    },
+    {
+      "path": "Scenery/airport-ensa-sandviken-helipad/scenery/ENSA.bgl",
+      "size": 3169,
+      "date": 133150113882568195
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.bin",
+      "size": 192916,
+      "date": 133150082449465369
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.gltf",
+      "size": 33253,
+      "date": 133150082449480370
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.xml",
+      "size": 1618,
+      "date": 133142246731994491
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/model/model.CFG",
+      "size": 36,
+      "date": 133140330848280387
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/sim.cfg",
+      "size": 114,
+      "date": 133140330107460453
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_ALBEDO_ORANGE.PNG.DDS",
+      "size": 699192,
+      "date": 133142289298480141
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_ALBEDO_ORANGE.PNG.DDS.json",
+      "size": 102,
+      "date": 133142289298480141
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_COMP_ORANGE.PNG.DDS",
+      "size": 699192,
+      "date": 133142289593425129
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_COMP_ORANGE.PNG.DDS.json",
+      "size": 166,
+      "date": 133142289593425129
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_ORANGE.PNG.DDS",
+      "size": 1398256,
+      "date": 133142289298455147
+    },
+    {
+      "path": "SimObjects/Landmarks/enxx_windsock/texture/WINDSOCK_FABRIC_ORANGE.PNG.DDS.json",
+      "size": 160,
+      "date": 133142289298455147
     }
   ]
 }

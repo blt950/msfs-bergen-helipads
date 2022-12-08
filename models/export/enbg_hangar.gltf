@@ -10,6 +10,7 @@
     },
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
+        "ASOBO_tags",
         "ASOBO_material_glass",
         "ASOBO_macro_light"
     ],
@@ -553,6 +554,14 @@
     ],
     "materials" : [
         {
+            "extensions" : {
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
             "extras" : {
                 "msfs_detail_color_texture" : {},
                 "msfs_detail_normal_texture" : {},
@@ -584,7 +593,9 @@
                     0.0
                 ],
                 "msfs_metallic_factor" : 1.0,
-                "msfs_roughness_factor" : 1.0
+                "msfs_roughness_factor" : 1.0,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
             },
             "name" : "Gravel",
             "normalTexture" : {
@@ -623,6 +634,14 @@
             }
         },
         {
+            "extensions" : {
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Collision",
+                        "Road"
+                    ]
+                }
+            },
             "extras" : {
                 "msfs_material_type" : 1,
                 "msfs_blend_mask_texture" : {},
@@ -661,7 +680,9 @@
                 "msfs_emissive_scale" : 1.0,
                 "msfs_day_night_cycle" : 0,
                 "msfs_no_cast_shadow" : 0,
-                "msfs_alpha_mode" : 0
+                "msfs_alpha_mode" : 0,
+                "msfs_collision_material" : 1,
+                "msfs_road_collision_material" : 1
             },
             "name" : "Roof",
             "normalTexture" : {

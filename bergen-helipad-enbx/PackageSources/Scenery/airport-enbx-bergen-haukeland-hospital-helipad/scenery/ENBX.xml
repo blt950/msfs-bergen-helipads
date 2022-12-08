@@ -217,9 +217,39 @@
 	</SceneryObject>
 	<Group displayName="ENBX" groupIndex="45" groupID="1" groupGenerated="FALSE"/>
 	<Airport displayName="Bergen Haukeland Hospital Helipad" parentGroupID="1" groupID="2" groupGenerated="FALSE" name="Bergen Haukeland Hospital Helipad" ident="ENBX" lat="60.37327598700265" lon="5.35838087021860" alt="79.61403779319055" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<Helipad parentGroupID="2" type="H" lat="60.37313899578869" lon="5.35831605592994" alt="71.65841066185385" heading="180.000000" length="35.000000" width="35.000000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Helipad parentGroupID="2" type="NONE" lat="60.37313899578869" lon="5.35831605592994" alt="71.65841066185385" heading="180.000000" length="35.000000" width="35.000000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="60.37313899578869" lon="5.35831605592994" alt="71.65841066185385" heading="0.00000000000000"/>
-		<Aprons/>
+		<Aprons>
+			<Apron parentGroupID="2" groupIndex="1" surface="{9E7A4A2E-32C0-4495-BDDF-79B24AFB25ED}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="2.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="60.37300519441408" lon="5.35823223672921"/>
+				<Vertex lat="60.37304115276086" lon="5.35811625202126"/>
+				<Vertex lat="60.37308348252521" lon="5.35805388463481"/>
+				<Vertex lat="60.37314798938370" lon="5.35803116205775"/>
+				<Vertex lat="60.37321898023492" lon="5.35804341109638"/>
+				<Vertex lat="60.37327278803137" lon="5.35811971033290"/>
+				<Vertex lat="60.37330733118958" lon="5.35823000515975"/>
+				<Vertex lat="60.37331164966962" lon="5.35833734074215"/>
+				<Vertex lat="60.37330297137451" lon="5.35843694313940"/>
+				<Vertex lat="60.37328757995024" lon="5.35851167930590"/>
+				<Vertex lat="60.37324961231430" lon="5.35858639428035"/>
+				<Vertex lat="60.37322811561141" lon="5.35862319373792"/>
+				<Vertex lat="60.37318812325168" lon="5.35865482235675"/>
+				<Vertex lat="60.37314568942882" lon="5.35866434723509"/>
+				<Vertex lat="60.37311330979050" lon="5.35866206241031"/>
+				<Vertex lat="60.37306929329121" lon="5.35861993115058"/>
+				<Vertex lat="60.37303276761291" lon="5.35855277358097"/>
+				<Vertex lat="60.37300848810835" lon="5.35850469318906"/>
+				<Vertex lat="60.37298898358536" lon="5.35846750571811"/>
+				<Vertex lat="60.37299923562872" lon="5.35843857776206"/>
+				<Vertex lat="60.37300473508017" lon="5.35840646606229"/>
+				<Vertex lat="60.37300988153150" lon="5.35837157120855"/>
+				<Vertex lat="60.37301162817152" lon="5.35834708279217"/>
+				<Vertex lat="60.37301118940739" lon="5.35831466378098"/>
+				<Vertex lat="60.37300852986110" lon="5.35827597346111"/>
+				<Vertex lat="60.37300584028446" lon="5.35825888485357"/>
+				<Vertex lat="60.37300346966126" lon="5.35824968260829"/>
+			</Apron>
+		</Aprons>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>

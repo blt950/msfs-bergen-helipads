@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-enbx-bergen-haukeland-hospital-helipad\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-enbx-bergen-haukeland-hospital-helipad\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-enbx-bergen-haukeland-hospital-helipad\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbx-models">
