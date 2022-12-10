@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-enbg-gronneviksoren\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-enbg-gronneviksoren\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbg-materials">

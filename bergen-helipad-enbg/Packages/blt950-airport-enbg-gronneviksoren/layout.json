@@ -3,7 +3,7 @@
     {
       "path": "ContentInfo/blt950-airport-enbg-gronneviksoren/ContentHistory.json",
       "size": 158,
-      "date": 133150125048644939
+      "date": 133151594346616419
     },
     {
       "path": "ContentInfo/blt950-airport-enbg-gronneviksoren/Thumbnail.jpg",
@@ -542,8 +542,8 @@
     },
     {
       "path": "Scenery/airport-enbg-gronneviksoren/scenery/ENBG.bgl",
-      "size": 9736,
-      "date": 133150125048579609
+      "size": 9608,
+      "date": 133151594346541434
     },
     {
       "path": "SimObjects/Landmarks/enxx_windsock/model/enxx_windsock.bin",

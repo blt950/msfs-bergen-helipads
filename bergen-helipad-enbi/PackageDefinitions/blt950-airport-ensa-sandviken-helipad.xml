@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\blt950-airport-ensa-sandviken-helipad\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\blt950-airport-ensa-sandviken-helipad\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\blt950-airport-ensa-sandviken-helipad\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="ensa-models">
