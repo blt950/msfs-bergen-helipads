@@ -1,7 +1,8 @@
 v1.0.0
 - Added smaller and custom windsock for all helipads
-- Added pier and hangar model at ENSA (Sandviken)
+- Added custom pier and hangar model at ENSA (Sandviken)
 - Added collision for the ENBG hangar
+- Fixed lights and other objects flying in the air until you're close to airport
 - Tweaked some ground under the ENBX helipad
 - Tweaked flickering doors at ENBX helipad
 
