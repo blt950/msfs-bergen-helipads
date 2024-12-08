@@ -1,3 +1,6 @@
+v2.0.0
+- Added MSFS2024 support
+
 v1.0.0
 - Added smaller and custom windsock for all helipads
 - Added custom pier and hangar model at ENSA (Sandviken)

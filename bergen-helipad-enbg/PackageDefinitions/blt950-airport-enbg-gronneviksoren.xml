@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="1.0.0">
+<AssetPackage Version="2.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Grønneviksøren Heliport</Title>
@@ -12,7 +12,7 @@
 	</Flags>
 	<AssetGroups>
 		<AssetGroup Name="ContentInfo">
-			<Type>ContentInfo</Type>
+			<Type Version="0">ContentInfo</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -20,36 +20,20 @@
 			<OutputDir>ContentInfo\blt950-airport-enbg-gronneviksoren\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enbg-materials">
-			<Type>MaterialLib</Type>
+			<Type Version="0">MaterialLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\MaterialLibs\enbg-materials\</AssetDir>
 			<OutputDir>MaterialLibs\enbg-materials\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="enbg-models">
-			<Type>ModelLib</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\Scenery\airport-enbg-gronneviksoren\enbg-models\</AssetDir>
-			<OutputDir>Scenery\airport-enbg-gronneviksoren\enbg-models\</OutputDir>
-		</AssetGroup>
 		<AssetGroup Name="enbg-scenery">
-			<Type>BGL</Type>
+			<Type Version="0">BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\Scenery\airport-enbg-gronneviksoren\scenery\</AssetDir>
 			<OutputDir>Scenery\airport-enbg-gronneviksoren\scenery\</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="enxx_windsock">
-			<Type>SimObject</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\SimObjects\Landmarks\enxx_windsock\</AssetDir>
-			<OutputDir>SimObjects\Landmarks\enxx_windsock\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

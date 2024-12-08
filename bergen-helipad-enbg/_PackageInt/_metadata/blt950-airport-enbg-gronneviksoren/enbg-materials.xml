@@ -1,12 +1,12 @@
 <Metadata Version="2" AssetDir="D:\GitHub\msfs-bergen-helipads\bergen-helipad-enbg\PackageSources\MaterialLibs\enbg-materials\">
-	<Entry Path="Textures\helipad_arrow.png">
-		<![CDATA[0101]]>
-	</Entry>
 	<Entry Path="Textures\no_medipad.png">
-		<![CDATA[0101]]>
+		<![CDATA[030123F508200000000000]]>
+	</Entry>
+	<Entry Path="Textures\helipad_arrow.png">
+		<![CDATA[030123F508200000000000]]>
 	</Entry>
 	<NamedEntry Name="_CommandVersions">
-		<![CDATA[0600000056291F691A8A122B020000004D3CD729F4242A13020000008916175B06C44C26020000009DFEE094309A6C5402000000CBA7FA76C737EFD3020000006329C8BA288C3BAC020000005400000000000000]]>
+		<![CDATA[030000001D2D9944F8B8CE4006000000D727F908E391D852060000006329C8BA288C3BAC040000003000000000000000]]>
 	</NamedEntry>
 </Metadata>
 

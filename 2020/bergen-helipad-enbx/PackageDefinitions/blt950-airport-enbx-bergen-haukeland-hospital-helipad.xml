@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Haukeland Hospital Helipad</Title>
+		<Manufacturer/>
+		<Creator>Blt950</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\blt950-airport-enbx-bergen-haukeland-hospital-helipad\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\blt950-airport-enbx-bergen-haukeland-hospital-helipad\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enbx-models">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-enbx-bergen-haukeland-hospital-helipad\enbx-models\</AssetDir>
+			<OutputDir>Scenery\airport-enbx-bergen-haukeland-hospital-helipad\enbx-models\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enbx-scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-enbx-bergen-haukeland-hospital-helipad\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-enbx-bergen-haukeland-hospital-helipad\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enxx_windsock">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Landmarks\enxx_windsock\</AssetDir>
+			<OutputDir>SimObjects\Landmarks\enxx_windsock\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -101,7 +101,7 @@
 		<LibraryObject name="{5C04C363-5DF6-4B0A-EDD6-78BBB7D72231}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject parentGroupID="1" groupIndex="1" lat="60.40887717188512" lon="5.31776334347878" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="TRUE" snapToNormal="FALSE">
-		<CarParking>
+		<CarParking carsHeading="0.000000" isRectangle="FALSE">
 			<Vertex lat="60.40897479551648" lon="5.31768182806284"/>
 			<Vertex lat="60.40890118639864" lon="5.31749075254414"/>
 			<Vertex lat="60.40874220722236" lon="5.31777614988985"/>
@@ -109,29 +109,32 @@
 		</CarParking>
 	</SceneryObject>
 	<SceneryObject parentGroupID="1" lat="60.40909530662697" lon="5.31823077428962" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="FALSE" snapToGround="TRUE" snapToNormal="FALSE">
-		<CarParking>
+		<CarParking carsHeading="0.000000" isRectangle="FALSE">
 			<Vertex lat="60.40913313060493" lon="5.31831668695471"/>
 			<Vertex lat="60.40914343302768" lon="5.31821919538919"/>
 			<Vertex lat="60.40906274468634" lon="5.31814209734778"/>
 			<Vertex lat="60.40904191818893" lon="5.31824511746680"/>
 		</CarParking>
 	</SceneryObject>
-	<Polygon displayName="polygon ignore autogen" groupIndex="4" altitude="0.36300259828568">
+	<Polygon version="0.4.0" displayName="polygon ignore autogen" groupIndex="4" altitude="0.36300259828568">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{7FC9225F-5447-47BE-B879-A90A53D971C0}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeMSBuildings" guid="{F78A3074-8AD5-4B8B-92C4-C1C948BB7AA5}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeTIN" guid="{18B58CBF-AE02-4A19-8AA9-3809E8E73400}" type="UINT8" value="1"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="60.40892019119410" lon="5.31673673798174"/>
 		<Vertex lat="60.40876077160771" lon="5.31744341802018"/>
 		<Vertex lat="60.40889747571418" lon="5.31805235236978"/>
 		<Vertex lat="60.40920648273345" lon="5.31829319129286"/>
 		<Vertex lat="60.40942014372945" lon="5.31715417036495"/>
 	</Polygon>
-	<Polygon altitude="0.45596601348370">
+	<Polygon version="0.4.0" altitude="0.45596602559090">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{96217B2A-AE1A-47D4-999C-7F48E0E24077}"/>
-		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="3.000000"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="1.481414"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
+		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="60.40929008630233" lon="5.31757623574970"/>
 		<Vertex lat="60.40924189357116" lon="5.31750267876011"/>
 		<Vertex lat="60.40910151997667" lon="5.31737379932984"/>
@@ -143,11 +146,12 @@
 		<Vertex lat="60.40912304390368" lon="5.31827477112809"/>
 		<Vertex lat="60.40917188360561" lon="5.31819603663399"/>
 	</Polygon>
-	<Polygon groupIndex="3" altitude="0.08804443478584">
+	<Polygon version="0.4.0" groupIndex="3" altitude="0.08804443478584">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D584D6F1-9DED-4A16-81D6-2C261AED0F15}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{EC765684-B6D6-448E-8768-D304144B1948}"/>
 		<Attribute name="MaterialFalloff" guid="{C17EBBDE-627D-4585-94F0-7C329CD69C4E}" type="FLOAT32" value="3.000000"/>
 		<Attribute name="MaterialRotation" guid="{A27E9C0F-D3F5-4FB2-B020-82179BDB622D}" type="FLOAT32" value="0.349066"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="60.40933785963576" lon="5.31728812903560"/>
 		<Vertex lat="60.40920472928660" lon="5.31716821168464"/>
 		<Vertex lat="60.40904275502243" lon="5.31731015723189"/>
@@ -163,11 +167,12 @@
 		<Vertex lat="60.40916783311437" lon="5.31821281679433"/>
 		<Vertex lat="60.40919269824371" lon="5.31801325937705"/>
 	</Polygon>
-	<Polygon displayName="poly water texture" groupIndex="2" altitude="0.00253103580326">
+	<Polygon version="0.4.0" displayName="poly water texture" groupIndex="2" altitude="0.00253103580326">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{F4FEE0C9-1EA4-47E6-A0B6-E4C6CB437259}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{BD0EDD80-2512-4F57-BFBE-1F320FB77D45}"/>
 		<Attribute name="MaterialFalloff" guid="{C17EBBDE-627D-4585-94F0-7C329CD69C4E}" type="FLOAT32" value="25.000000"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-16646144"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="60.40924095298794" lon="5.31798239697036"/>
 		<Vertex lat="60.40946826317019" lon="5.31816636558545"/>
 		<Vertex lat="60.40974833090232" lon="5.31824510348856"/>
@@ -182,10 +187,10 @@
 		<Vertex lat="60.40873931991567" lon="5.31708976959203"/>
 		<Vertex lat="60.40892946412670" lon="5.31720549971347"/>
 	</Polygon>
-	<Polygon displayName="poly water" groupIndex="1" altitude="-0.00596424005926">
+	<Polygon version="0.4.0" displayName="poly water" groupIndex="1" altitude="-0.00596424005926">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3FB7A8E6-B994-46D4-A8EA-5E078B53B6E8}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
-		<Attribute name="WaterType" guid="{3F8514F8-FAA8-4B94-AB7F-DC2078A4B888}" type="UINT32" value="2"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="60.40885969384988" lon="5.31711545116855"/>
 		<Vertex lat="60.40986848935692" lon="5.31625117618491"/>
 		<Vertex lat="60.41012047079804" lon="5.31609225353540"/>
@@ -216,8 +221,9 @@
 	<Group displayName="ENBI" groupIndex="5" groupID="1" groupGenerated="FALSE"/>
 	<Group displayName="ENBI Objects" parentGroupID="1" groupIndex="5" groupID="2" groupGenerated="FALSE"/>
 	<Group displayName="ENBI Vegetation" parentGroupID="1" groupIndex="4" groupID="3" groupGenerated="FALSE"/>
-	<Airport displayName="Sandviken Helipad" parentGroupID="1" groupIndex="6" groupID="4" groupGenerated="FALSE" name="Sandviken Helipad" ident="ENSA" lat="60.40931607517148" lon="5.31711087641540" alt="12.79747519362718" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<Helipad displayName="Helipad" parentGroupID="4" type="H" lat="60.40929750138156" lon="5.31709528807533" alt="0.45754812378436" heading="180.000000" length="35.000000" width="35.000000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport displayName="Sandviken Helipad" parentGroupID="1" groupIndex="6" groupID="4" groupGenerated="FALSE" name="Sandviken Helipad" ident="ENBI" lat="60.40931607517148" lon="5.31711087641540" alt="12.79747519362718" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="100.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<AirportArchetype/>
+		<Helipad displayName="Helipad" parentGroupID="4" type="H" lat="60.40929750138156" lon="5.31709528807533" alt="0.45754812378436" heading="180.000000" length="35.000000" width="35.000000" surface="CONCRETE" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="60.40929750138156" lon="5.31709528807533" alt="0.45754812378436" heading="205.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
